@@ -1,17 +1,17 @@
 ---
 name: byteplus-docs
-description: Research and answer questions using the official BytePlus documentation index in this repository. Use this skill whenever the user asks about BytePlus products, APIs, SDKs, setup, quotas, regions, architecture, integration, troubleshooting, pricing documentation, or requests official BytePlus documentation links, even when they do not explicitly mention `llms.txt`. Search `llms.txt`, fetch only the relevant live documentation pages, and never load `llms-full.txt`.
+description: Research and answer questions using the official BytePlus documentation index bundled with this skill. Use this skill whenever the user asks about BytePlus products, APIs, SDKs, setup, quotas, regions, architecture, integration, troubleshooting, pricing documentation, or requests official BytePlus documentation links, even when they do not explicitly mention `llms.txt`. Search the bundled `llms.txt`, then fetch only the relevant live documentation pages.
 compatibility: Requires Python 3. Live claim verification benefits from Context7 or a web-fetching tool.
 ---
 
 # BytePlus Docs
 
-Use the repository's `llms.txt` as a high-coverage map of official English BytePlus documentation. The index contains titles and canonical URLs, not the evidence needed to answer detailed questions. Discover with the index, then read a small number of relevant live pages.
+Use the bundled `llms.txt` as a high-coverage map of official English BytePlus documentation. The index contains titles and canonical URLs, not the evidence needed to answer detailed questions. Discover with the index, then read a small number of relevant live pages.
 
 ## Source contract
 
 - Treat `llms.txt` as the required discovery source.
-- Do not open, search, summarize, or load `llms-full.txt`. It is intentionally outside this workflow.
+- Use the copy beside this `SKILL.md` so the skill remains self-contained when installed elsewhere.
 - Treat every indexed URL as a candidate, not proof of a technical claim.
 - Verify substantive claims against the selected live `docs.byteplus.com` pages.
 - Prefer the official BytePlus documentation over blogs, search snippets, or third-party summaries.
@@ -23,10 +23,11 @@ The bundled search helper finds `llms.txt` by checking, in order:
 
 1. `--index PATH`
 2. `BYTEPLUS_LLMS_TXT`
-3. the current directory and its parents
-4. the skill directory and its parents
+3. the `llms.txt` bundled in this skill directory
+4. the current directory and its parents
+5. the skill directory and its parents
 
-In the repository-local installation, no path argument is normally needed.
+No path argument is normally needed.
 
 ## Research workflow
 

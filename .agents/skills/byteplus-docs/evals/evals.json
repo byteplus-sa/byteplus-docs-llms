@@ -8,7 +8,7 @@
       "files": [],
       "expectations": [
         "Uses llms.txt or the bundled search_docs.py helper for discovery",
-        "Does not read or cite llms-full.txt",
+        "Works from the llms.txt bundled inside the skill directory",
         "Cites canonical docs.byteplus.com ModelArk pages",
         "Separates live-verified behavior from any uncertainty"
       ]

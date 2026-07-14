@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Rank links from the repository's BytePlus llms.txt without reading llms-full.txt."""
+"""Rank links from the BytePlus llms.txt bundled with this skill."""
 
 from __future__ import annotations
 
@@ -44,6 +44,7 @@ def find_index(explicit: Path | None) -> Path:
     env_path = os.environ.get("BYTEPLUS_LLMS_TXT")
     if env_path:
         candidates.append(Path(env_path).expanduser())
+    candidates.append(Path(__file__).resolve().parents[1] / "llms.txt")
     for origin in (Path.cwd().resolve(), Path(__file__).resolve()):
         candidates.extend(parent / "llms.txt" for parent in (origin, *origin.parents))
 
@@ -56,8 +57,8 @@ def find_index(explicit: Path | None) -> Path:
         if candidate.is_file():
             return candidate
     raise FileNotFoundError(
-        "Could not find llms.txt. Run from the byteplus-docs-llms repository, "
-        "pass --index PATH, or set BYTEPLUS_LLMS_TXT."
+        "Could not find llms.txt. Ensure it is bundled beside SKILL.md, pass "
+        "--index PATH, or set BYTEPLUS_LLMS_TXT."
     )
 
 
