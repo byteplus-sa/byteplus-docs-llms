@@ -1707,6 +1707,7 @@ This index contains every discovered documentation page. Link order follows the 
 - [Searchinfinity API Reference](https://docs.byteplus.com/en/docs/searchinfinity/Searchinfinity_API_Reference)
 - [Searchinfinity pricing](https://docs.byteplus.com/en/docs/searchinfinity/Searchinfinity_pricing)
 - [AI Tool Integration Guide](https://docs.byteplus.com/en/docs/searchinfinity/AI_Tool_Integration_Guide)
+- [Searchinfinity Fetch](https://docs.byteplus.com/en/docs/searchinfinity/Searchinfinity_Fetch)
 
 ## AI & Personalization — TRAE
 
@@ -3091,20 +3092,17 @@ This index contains every discovered documentation page. Link order follows the 
 - [Managing and distributing environment variables in a centralized manner](https://docs.byteplus.com/en/docs/ArkClaw/Managing_and_distributing_environment_variables_in_a_centralized_manner)
 - [Creating ArkClaw alerting tasks](https://docs.byteplus.com/en/docs/ArkClaw/Creating_ArkClaw_alerting_tasks)
 - [Exporting span data to local files](https://docs.byteplus.com/en/docs/ArkClaw/Exporting_span_data_to_local_files)
-- [Global settings for Claw instances](https://docs.byteplus.com/en/docs/ArkClaw/Global_settings_for_Claw_instances)
 - [Managing sandboxes](https://docs.byteplus.com/en/docs/ArkClaw/Managing_sandboxes)
 - [Managing user information](https://docs.byteplus.com/en/docs/ArkClaw/Manage_user_information)
 - [Managing department information](https://docs.byteplus.com/en/docs/ArkClaw/Managing_departments)
 - [Configuring an authentication method](https://docs.byteplus.com/en/docs/ArkClaw/Managing_users)
+- [Global settings for Claw instances](https://docs.byteplus.com/en/docs/ArkClaw/Global_settings_for_Claw_instances)
+- [Permission overview](https://docs.byteplus.com/en/docs/ArkClaw/Permission_overview)
 - [Enable/disable Claw instances](https://docs.byteplus.com/en/docs/ArkClaw/Managing_instances)
 - [Use the terminal to manage Claw instances](https://docs.byteplus.com/en/docs/ArkClaw/Use_the_terminal_to_manage_Claw_instances)
 - [Auto healing for Claw instances](https://docs.byteplus.com/en/docs/ArkClaw/Auto_healing_for_Claw_instances)
-- [Permission overview](https://docs.byteplus.com/en/docs/ArkClaw/Permission_overview)
 - [View Claw instance observational data](https://docs.byteplus.com/en/docs/ArkClaw/View_Claw_instance_observational_data)
 - [Restart Claw instance](https://docs.byteplus.com/en/docs/ArkClaw/Restart_Claw_instance)
-- [Backing up and restoring ArkClaw instances](https://docs.byteplus.com/en/docs/ArkClaw/Backing_up_and_restoring_ArkClaw_instances)
-- [Bulk switching models for Claw instances](https://docs.byteplus.com/en/docs/ArkClaw/Bulk_switching_models_for_Claw_instances)
-- [Restore Claw instance to factory settings](https://docs.byteplus.com/en/docs/ArkClaw/Restore_Claw_instance_to_factory_settings)
 - [Application management](https://docs.byteplus.com/en/docs/ArkClaw/Application_management)
 - [Sample A2A agent JSON file example](https://docs.byteplus.com/en/docs/ArkClaw/Sample_A2A_agent_JSON_file)
 - [Managing orders](https://docs.byteplus.com/en/docs/ArkClaw/Managing_orders)
@@ -3154,7 +3152,7 @@ This index contains every discovered documentation page. Link order follows the 
 - [Add a risk scanning policy](https://docs.byteplus.com/en/docs/ArkClaw/Add_a_risk_scanning_policy)
 - [Enable or update security protection for existing ArkClaw instances](https://docs.byteplus.com/en/docs/ArkClaw/Enable_or_update_security_protection_for_existing_ArkClaw_instances)
 - [Upgrade security protection seats to the advanced edition](https://docs.byteplus.com/en/docs/ArkClaw/Upgrade_security_protection_seats_to_the_advanced_edition)
-- [Modify Claw instance seat grades](https://docs.byteplus.com/en/docs/ArkClaw/Changing_Claw_instance_seat_levels)
+- [Backing up and restoring ArkClaw instances](https://docs.byteplus.com/en/docs/ArkClaw/Backing_up_and_restoring_ArkClaw_instances)
 - [Viewing agent execution traces](https://docs.byteplus.com/en/docs/ArkClaw/Viewing_agent_execution_traces)
 - [Managing resource permissions](https://docs.byteplus.com/en/docs/ArkClaw/Managing_resource_permissions)
 - [Employee-side console usage overview](https://docs.byteplus.com/en/docs/ArkClaw/Employee-side_console_usage_overview)
@@ -3276,12 +3274,12 @@ This index contains every discovered documentation page. Link order follows the 
 - [Employee-side console configuration](https://docs.byteplus.com/en/docs/ArkClaw/Employee-side_console_configuration)
 - [Best practices for resource registration and use in the Application Center](https://docs.byteplus.com/en/docs/ArkClaw/Best_practices_for_resource_registration_and_use_in_the_Application_Center)
 - [Official release of Agent Registry](https://docs.byteplus.com/en/docs/ArkClaw/Official_release_of_Agent_Registry)
-- [Exporting the Claw instance list](https://docs.byteplus.com/en/docs/ArkClaw/Exporting_the_Claw_instance_list)
+- [Modify Claw instance seat grades](https://docs.byteplus.com/en/docs/ArkClaw/Changing_Claw_instance_seat_levels)
 - [Exiting ArkClaw](https://docs.byteplus.com/en/docs/ArkClaw/Exiting_ArkClaw_)
 - [Managing system notifications](https://docs.byteplus.com/en/docs/ArkClaw/Managing_system_notifications_)
 - [Using Hermes Agent](https://docs.byteplus.com/en/docs/ArkClaw/Using_Hermes_Agent__)
 - [Hermes Agent FAQ](https://docs.byteplus.com/en/docs/ArkClaw/Hermes_Agent_FAQ__)
-- [Deleting Claw instances](https://docs.byteplus.com/en/docs/ArkClaw/Deleting_Claw_instances)
+- [Restore Claw instance to factory settings](https://docs.byteplus.com/en/docs/ArkClaw/Restore_Claw_instance_to_factory_settings)
 - [SAML protocol](https://docs.byteplus.com/en/docs/ArkClaw/SAML_protocol)
 - [Viewing agent execution traces](https://docs.byteplus.com/en/docs/ArkClaw/viewing_agent_execution_traces)
 - [Configuring independent message channels for my agents](https://docs.byteplus.com/en/docs/ArkClaw/Configuring_independent_message_channels_for_my_agents_1)
@@ -3291,6 +3289,9 @@ This index contains every discovered documentation page. Link order follows the 
 - [Configuring .md files for my agents](https://docs.byteplus.com/en/docs/ArkClaw/Configuring_md_files_for_my_agents_0)
 - [Using Codex Programming](https://docs.byteplus.com/en/docs/ArkClaw/Using_Codex_Programming)
 - [Setting sub-agent scheduling priority](https://docs.byteplus.com/en/docs/ArkClaw/Setting_sub-agent_scheduling_priority)
+- [Bulk switching models for Claw instances](https://docs.byteplus.com/en/docs/ArkClaw/Bulk_switching_models_for_Claw_instances)
+- [Exporting the Claw instance list](https://docs.byteplus.com/en/docs/ArkClaw/Exporting_the_Claw_instance_list)
+- [Deleting Claw instances](https://docs.byteplus.com/en/docs/ArkClaw/Deleting_Claw_instances)
 
 ## Containers & Middleware — Cloud Monitor
 
@@ -12466,7 +12467,6 @@ This index contains every discovered documentation page. Link order follows the 
 
 - [Release notes](https://docs.byteplus.com/en/docs/Milvus_for_VectorDB/Release_notes)
 - [Serverless instance read vCU billing notification](https://docs.byteplus.com/en/docs/Milvus_for_VectorDB/Serverless_instance_read_vCU_billing_notification)
-- [Milvus for VectorDB official sales announcement](https://docs.byteplus.com/en/docs/Milvus_for_VectorDB/Milvus_for_VectorDB_official_sales_announcement)
 - [What is Milvus for VectorDB](https://docs.byteplus.com/en/docs/Milvus_for_VectorDB/What_is_Milvus_for_VectorDB)
 - [Comparison between Milvus for VectorDB and Self-hosted Milvus on ECS](https://docs.byteplus.com/en/docs/Milvus_for_VectorDB/Comparison_between_Milvus_for_VectorDB_and_Self-hosted_Milvus_on_ECS)
 - [Application scenarios](https://docs.byteplus.com/en/docs/Milvus_for_VectorDB/Application_scenarios)
@@ -21155,6 +21155,7 @@ This index contains every discovered documentation page. Link order follows the 
 
 - [Real name verification](https://docs.byteplus.com/en/docs/Account/real-name-verification)
 - [Sign Up and Verify BytePlus account](https://docs.byteplus.com/en/docs/Account/sign-up-and-verify-byteplus-account)
+- [Manage Account Information](https://docs.byteplus.com/en/docs/Account/manage-account-information)
 - [Close account](https://docs.byteplus.com/en/docs/Account/close-account)
 - [FAQ about closing an account](https://docs.byteplus.com/en/docs/Account/FAQ_about_closing_an_account)
 
