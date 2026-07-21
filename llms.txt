@@ -1809,6 +1809,10 @@ This index contains every discovered documentation page. Link order follows the 
 - [Ticket configuration](https://docs.byteplus.com/en/docs/trae/ticket-configuration)
 - [TRAE Enterprise Terms of Service](https://docs.byteplus.com/en/docs/trae/trae-enterprise-terms-of-service)
 
+## AI & Personalization — Dramagic
+
+- [Release Notes](https://docs.byteplus.com/en/docs/Dramagic/ReleaseNotes)
+
 ## Compute — Elastic Compute Service
 
 - [New feature release notes](https://docs.byteplus.com/en/docs/ecs/New-feature-release-notes)
