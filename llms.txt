@@ -1069,7 +1069,7 @@ This index contains every discovered documentation page. Link order follows the 
 - [Skylark role creation guide](https://docs.byteplus.com/en/docs/ModelArk/1256348)
 - [Best practices for handling burst traffic](https://docs.byteplus.com/en/docs/ModelArk/1848593)
 - [Byteplus ModelArk Data Collaboration Rewards Campaign and Data Authorization Agreement](https://docs.byteplus.com/en/docs/ModelArk/1391869)
-- [\[Announcement\] Temporary sign-in requirement for certain pages](https://docs.byteplus.com/en/docs/ModelArk/2191792)
+- [[Announcement] Temporary sign-in requirement for certain pages](https://docs.byteplus.com/en/docs/ModelArk/2191792)
 - [Model releases - 2025](https://docs.byteplus.com/en/docs/ModelArk/2172655)
 - [Product updates - 2025](https://docs.byteplus.com/en/docs/ModelArk/2172656)
 - [Model deprecations - 2025](https://docs.byteplus.com/en/docs/ModelArk/2172669)
@@ -4825,7 +4825,7 @@ This index contains every discovered documentation page. Link order follows the 
 - [Migrating from NGINX Ingresses to APIG Ingresses](https://docs.byteplus.com/en/docs/vke/Migrating_from_NGINX_Ingresses_to_APIG_Ingresses)
 - [Configuring HTTPS for the APIG Ingress](https://docs.byteplus.com/en/docs/vke/Configuring_HTTPS_for_the_APIG_Ingress)
 - [How do I obtain node information of a cluster?](https://docs.byteplus.com/en/docs/vke/How_do_obtain_node_information_of_a_cluster)
-- [\[Announcements\] Patch version upgrade for VKE clusters](https://docs.byteplus.com/en/docs/vke/Patch-version-upgrade-for-VKE-clusters)
+- [[Announcements] Patch version upgrade for VKE clusters](https://docs.byteplus.com/en/docs/vke/Patch-version-upgrade-for-VKE-clusters)
 - [VKE supports the Asia Pacific (Jakarta) region](https://docs.byteplus.com/en/docs/vke/VKE_supports_the_Asia_Pacific_Jakarta_region)
 - [Migrating from NGINX Ingresses to ALB Ingresses](https://docs.byteplus.com/en/docs/vke/Migrating_from_NGINX_Ingresses_to_ALB_Ingresses)
 - [Creating normal node pools](https://docs.byteplus.com/en/docs/vke/Creating-a-NodePool)
@@ -14398,10 +14398,11 @@ This index contains every discovered documentation page. Link order follows the 
 - [Integrate Third-Party Model](https://docs.byteplus.com/en/docs/byteplus-rtc/docs-1399966)
 - [What should I do if echo leakage or 'self-questioning and answering' occurs?](https://docs.byteplus.com/en/docs/byteplus-rtc/docs-2222050)
 - [Release Notes](https://docs.byteplus.com/en/docs/byteplus-rtc/81145)
-- [Error Codes](https://docs.byteplus.com/en/docs/byteplus-rtc/docs-1928198)
+- [Events and Error Codes](https://docs.byteplus.com/en/docs/byteplus-rtc/docs-1928198)
 - [Electron](https://docs.byteplus.com/en/docs/byteplus-rtc/docs-519257)
 - [API References Archive](https://docs.byteplus.com/en/docs/byteplus-rtc/docs-api-references-for-previous-versions)
 - [Obtain AI Status](https://docs.byteplus.com/en/docs/byteplus-rtc/docs-1415216)
+- [Obtain Cnversation AI Task Events](https://docs.byteplus.com/en/docs/byteplus-rtc/docs-1798101)
 
 ## Media Services — BytePlus MediaLive
 
