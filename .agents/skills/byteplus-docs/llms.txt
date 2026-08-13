@@ -1809,6 +1809,19 @@ This index contains every discovered documentation page. Link order follows the 
 - [Ticket configuration](https://docs.byteplus.com/en/docs/trae/ticket-configuration)
 - [TRAE Enterprise Terms of Service](https://docs.byteplus.com/en/docs/trae/trae-enterprise-terms-of-service)
 
+## AI & Personalization — Market Insights
+
+- [About Market Insights Agent](https://docs.byteplus.com/en/docs/mkinsights/AboutMarket)
+- [Start trial](https://docs.byteplus.com/en/docs/mkinsights/Start)
+- [Order full version](https://docs.byteplus.com/en/docs/mkinsights/Order)
+- [Create monitoring task](https://docs.byteplus.com/en/docs/mkinsights/Create)
+- [Manage monitoring tasks](https://docs.byteplus.com/en/docs/mkinsights/Manage)
+- [Optimize monitoring tasks](https://docs.byteplus.com/en/docs/mkinsights/Optimize)
+- [Reputation analysis report](https://docs.byteplus.com/en/docs/mkinsights/Reputation)
+- [Market communication analysis report](https://docs.byteplus.com/en/docs/mkinsights/Market)
+- [Custom report](https://docs.byteplus.com/en/docs/mkinsights/Custom)
+- [AI insight data subscription API](https://docs.byteplus.com/en/docs/mkinsights/insightAPI)
+
 ## AI & Personalization — Dramagic
 
 - [Release Notes](https://docs.byteplus.com/en/docs/Dramagic/ReleaseNotes)
