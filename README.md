@@ -43,6 +43,37 @@ python3 .agents/skills/byteplus-docs/scripts/search_docs.py \
 
 Python 3 is the only local runtime requirement. Live documentation access and Context7 are recommended for verifying current API, SDK, quota, region, pricing, and availability details.
 
+## Refreshing the indexes
+
+`generate.py` crawls the official docs SPA and regenerates both indexes. Content
+is extracted from the server-rendered `window._ROUTER_DATA` payload and the
+`getDocDetail` JSON API; no headless browser is required.
+
+```bash
+# Full discovery + extraction (about 25-30 minutes; caches in ./cache/)
+python3 generate.py
+
+# Reuse unchanged bodies from the current llms-full.txt and re-fetch only
+# documents whose cached API payload is older than 30 days
+python3 generate.py --incremental-from llms-full.txt --max-age 2592000
+
+# Regenerate only the links index
+python3 generate.py --links-only
+
+# Verify committed outputs against the crawl manifest
+python3 generate.py --validate-only
+```
+
+After a successful run, sync the standalone skill copy so both indexes match:
+
+```bash
+cp llms.txt .agents/skills/byteplus-docs/llms.txt
+```
+
+Note: the docs site returns its SPA HTML shell (HTTP 200) for missing paths such
+as `/robots.txt`, `/sitemap.xml`, and `/llms.txt`, so there is no official
+`llms.txt` to mirror — this repository is the index.
+
 ## Skill structure
 
 ```text
@@ -57,4 +88,4 @@ Python 3 is the only local runtime requirement. Live documentation access and Co
 
 ## Source
 
-All indexed links point to the official BytePlus documentation at [`docs.byteplus.com`](https://docs.byteplus.com/en/docs/).
+All indexed links point to the official BytePlus documentation at [`docs.byteplus.com`](https://docs.byteplus.com/en/docs/). `www.byteplus.com/robots.txt` allows AI search and input use; the crawl honors `Disallow: /api/` paths and uses a descriptive User-Agent.
