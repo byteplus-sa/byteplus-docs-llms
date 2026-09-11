@@ -1,0 +1,18 @@
+# BytePlus Documentation — BytePlus Account
+
+> Management Console — BytePlus Account
+
+Source: https://docs.byteplus.com/en/docs/Account
+
+Pages: 11
+- [Real name verification](https://docs.byteplus.com/en/docs/Account/real-name-verification)
+- [Sign Up and Verify BytePlus account](https://docs.byteplus.com/en/docs/Account/sign-up-and-verify-byteplus-account)
+- [Introduction to Byteplus account type](https://docs.byteplus.com/en/docs/Account/Introduction_to_Byteplus_account_type)
+- [Manage Account Information](https://docs.byteplus.com/en/docs/Account/manage-account-information)
+- [Changing the verified phone number and email address](https://docs.byteplus.com/en/docs/Account/changing-the-verified-phone-number-and-email-address)
+- [Changing the password](https://docs.byteplus.com/en/docs/Account/changing-the-password)
+- [Setting Session Timeout](https://docs.byteplus.com/en/docs/Account/setting-session-timeout)
+- [Multi-factor authentication(MFA)](https://docs.byteplus.com/en/docs/Account/multi-factor-authentication)
+- [Close account](https://docs.byteplus.com/en/docs/Account/close-account)
+- [FAQ about closing an account](https://docs.byteplus.com/en/docs/Account/FAQ_about_closing_an_account)
+- [FAQ about browser incompatible plugin error](https://docs.byteplus.com/en/docs/Account/FAQ_about_browser_incompatible_plugin_error)

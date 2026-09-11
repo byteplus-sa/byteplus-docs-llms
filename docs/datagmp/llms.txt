@@ -1,0 +1,27 @@
+# BytePlus Documentation — Byteplus GMP
+
+> Data Analytics — Byteplus GMP
+
+Source: https://docs.byteplus.com/en/docs/datagmp
+
+Pages: 20
+- [Product Introduction](https://docs.byteplus.com/en/docs/datagmp/Product_Introduction)
+- [Create Message Delivery Task](https://docs.byteplus.com/en/docs/datagmp/Create_Message_Reach_Tasks)
+- [Message Delivery Management](https://docs.byteplus.com/en/docs/datagmp/Message_Reach_Management)
+- [A/B Experiment](https://docs.byteplus.com/en/docs/datagmp/AB_Experiment)
+- [Task Submission for Approval](https://docs.byteplus.com/en/docs/datagmp/Task_Submission_for_Approval)
+- [Message Delivery Data Analysis](https://docs.byteplus.com/en/docs/datagmp/Message_Reach_Effect_Evaluation)
+- [Create Process Canvas](https://docs.byteplus.com/en/docs/datagmp/Create_Process_Canvas)
+- [Task Submission for Approval](https://docs.byteplus.com/en/docs/datagmp/Task_Submission_forApproval)
+- [Process Canvas Data Analysis](https://docs.byteplus.com/en/docs/datagmp/Process_Canvas_Effect_Evaluation)
+- [Added New DataFinder Analysis Capabilities](https://docs.byteplus.com/en/docs/datagmp/New_added_Integrated_DataFinder_Analysis_Capabilities)
+- [User Sending Details](https://docs.byteplus.com/en/docs/datagmp/User_Sending_Details)
+- [SMS Template](https://docs.byteplus.com/en/docs/datagmp/SMS_Template)
+- [Short Link](https://docs.byteplus.com/en/docs/datagmp/Link_Tool)
+- [Benefit Management](https://docs.byteplus.com/en/docs/datagmp/Benefits_Management)
+- [Material Management](https://docs.byteplus.com/en/docs/datagmp/Material_Management)
+- [Channel Management](https://docs.byteplus.com/en/docs/datagmp/Channel_Management)
+- [Product Advantages](https://docs.byteplus.com/en/docs/datagmp/Product_Advantages)
+- [Channel Integration Instructions](https://docs.byteplus.com/en/docs/datagmp/Channel_Integration_Instructions)
+- [Telegram](https://docs.byteplus.com/en/docs/datagmp/telegram)
+- [Application Scenarios](https://docs.byteplus.com/en/docs/datagmp/Application_Scenarios)

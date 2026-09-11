@@ -5,6 +5,8 @@ A machine-readable index of the official English [BytePlus documentation](https:
 ## Contents
 
 - [`llms.txt`](./llms.txt): BytePlus documentation titles grouped by product, with canonical links.
+- [`llms-full.txt`](./llms-full.txt): Full page content for every indexed page.
+- [`docs/`](./docs/): Per-library indexes (`docs/<library-code>/llms.txt` and `llms-full.txt`) plus `docs/index.json`; use these to load only the product you need instead of the 180 MB aggregate file.
 - [`.agents/skills/byteplus-docs/`](./.agents/skills/byteplus-docs/): Standalone BytePlus documentation research skill with its own bundled index.
 
 ## Use the documentation index
@@ -45,14 +47,25 @@ Python 3 is the only local runtime requirement. Live documentation access and Co
 
 ## Refreshing the indexes
 
-`generate.py` crawls the official docs SPA and regenerates both indexes. Content
-is extracted from the server-rendered `window._ROUTER_DATA` payload and the
-`getDocDetail` JSON API; no headless browser is required.
+Run `./refresh.sh` to regenerate everything: it reuses unchanged bodies from the
+current snapshot, re-fetches documents whose cached API payload is older than 30
+days, writes the per-library files, validates the outputs, and syncs the skill
+index copy.
 
 ```bash
-# Full discovery + extraction (about 25-30 minutes; caches in ./cache/)
-python3 generate.py
+./refresh.sh          # incremental refresh (recommended)
+./refresh.sh --full   # ignore caches and re-extract everything
+```
 
+`generate.py` crawls the official docs SPA directly. Content is extracted from
+the server-rendered `window._ROUTER_DATA` payload and the `getDocDetail` JSON
+API; no headless browser is required. A GitHub Actions workflow
+(`.github/workflows/refresh.yml`) runs the same script monthly and commits the
+result when anything changed.
+
+Useful `generate.py` flags for ad-hoc work:
+
+```bash
 # Reuse unchanged bodies from the current llms-full.txt and re-fetch only
 # documents whose cached API payload is older than 30 days
 python3 generate.py --incremental-from llms-full.txt --max-age 2592000
@@ -62,12 +75,6 @@ python3 generate.py --links-only
 
 # Verify committed outputs against the crawl manifest
 python3 generate.py --validate-only
-```
-
-After a successful run, sync the standalone skill copy so both indexes match:
-
-```bash
-cp llms.txt .agents/skills/byteplus-docs/llms.txt
 ```
 
 Note: the docs site returns its SPA HTML shell (HTTP 200) for missing paths such

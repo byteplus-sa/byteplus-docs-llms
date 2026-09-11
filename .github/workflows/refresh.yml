@@ -1,0 +1,38 @@
+name: Refresh documentation indexes
+
+on:
+  workflow_dispatch:
+  schedule:
+    # First day of each month at 02:00 UTC
+    - cron: "0 2 1 * *"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: true
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Refresh indexes
+        run: ./refresh.sh
+
+      - name: Commit changed indexes
+        run: |
+          git config user.name "docs-refresh-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add llms.txt llms-full.txt docs .agents/skills/byteplus-docs/llms.txt
+          if git diff --cached --quiet; then
+            echo "No documentation changes to commit"
+          else
+            git commit -m "Refresh BytePlus documentation indexes"
+            git push
+          fi

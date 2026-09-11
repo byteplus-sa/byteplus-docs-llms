@@ -557,6 +557,97 @@ def render_full(extracted: list[ExtractedDocument]) -> str:
     return "".join(parts)
 
 
+def slugify(value: str) -> str:
+    """Filesystem-safe directory name for a library code."""
+    return urllib.parse.quote(value.strip(), safe="-_.~").replace(".", "-")
+
+
+def render_library_links(documents: list[Document]) -> str:
+    """Render one library's documents as a standalone llms.txt index."""
+    first = documents[0]
+    heading = " — ".join(" ".join(value.split()) for value in (first.category, first.library_title))
+    parts = [
+        "# BytePlus Documentation — ",
+        f"{escape_link_label(first.library_title)}\n\n",
+        f"> {escape_link_label(heading)}\n\n",
+        f"Source: {BASE_URL}/en/docs/{first.library_code}\n\n",
+        f"Pages: {len(documents)}\n",
+    ]
+    for document in documents:
+        parts.append(f"- [{escape_link_label(document.title)}]({document.url})\n")
+    return "".join(parts)
+
+
+def render_library_full(extracted: list[ExtractedDocument]) -> str:
+    """Render one library's documents as a standalone llms-full.txt."""
+    generated_at = dt.datetime.now(dt.timezone.utc).replace(microsecond=0).isoformat()
+    first = extracted[0].document
+    parts = [
+        "# BytePlus Documentation — ",
+        f"{escape_link_label(first.library_title)}\n\n",
+        f"Generated: {generated_at}\n\n",
+        f"Source: {BASE_URL}/en/docs/{first.library_code}\n\n",
+        f"Pages: {len(extracted)}\n",
+    ]
+    for item in extracted:
+        title = item.document.title.replace("\n", " ").strip()
+        parts.extend(
+            [
+                "\n---\n\n",
+                f"# {title}\n\n",
+                f"Source: {item.document.url}\n",
+                f"Library: {item.document.library_title}\n",
+                f"Last updated: {item.updated_time or 'Unknown'}\n\n",
+                item.markdown,
+                "\n",
+            ]
+        )
+    return "".join(parts)
+
+
+def write_per_library_outputs(
+    output_dir: Path,
+    documents: list[Document],
+    extracted_by_url: dict[str, ExtractedDocument],
+) -> list[Path]:
+    """Write per-library llms.txt / llms-full.txt under docs/<library>/."""
+    docs_root = output_dir / "docs"
+    docs_root.mkdir(parents=True, exist_ok=True)
+    index_payload: list[dict[str, Any]] = []
+    written: list[Path] = []
+    grouped: dict[tuple[int, int], list[Document]] = {}
+    for document in documents:
+        grouped.setdefault(
+            (document.category_order, document.library_order), []
+        ).append(document)
+    for _, library_documents in sorted(grouped.items()):
+        code = library_documents[0].library_code
+        directory = docs_root / slugify(code)
+        directory.mkdir(parents=True, exist_ok=True)
+        library_extracted = [
+            extracted_by_url[document.url] for document in library_documents
+        ]
+        links_path = directory / "llms.txt"
+        full_path = directory / "llms-full.txt"
+        write_text_atomic(links_path, render_library_links(library_documents))
+        write_text_atomic(full_path, render_library_full(library_extracted))
+        written.extend((links_path, full_path))
+        index_payload.append(
+            {
+                "library": library_documents[0].library_title,
+                "category": library_documents[0].category,
+                "code": code,
+                "pages": len(library_documents),
+                "index_url": links_path.resolve().as_uri(),
+                "full_url": full_path.resolve().as_uri(),
+            }
+        )
+    index_path = docs_root / "index.json"
+    write_json_atomic(index_path, index_payload)
+    written.append(index_path)
+    return written
+
+
 def load_incremental_snapshot(
     path: Path, documents: list[Document]
 ) -> dict[str, ExtractedDocument]:
@@ -668,6 +759,12 @@ def parse_args() -> argparse.Namespace:
         help="Re-extract a document only when its cached API payload is older than "
         "this many seconds (0 disables caching)",
     )
+    parser.add_argument(
+        "--per-library",
+        action="store_true",
+        help="Also write docs/<library-code>/llms.txt and llms-full.txt per library "
+        "plus docs/index.json",
+    )
     parser.add_argument("--limit", type=int)
     return parser.parse_args()
 
@@ -773,6 +870,9 @@ def main() -> int:
     write_text_atomic(links_path, links_text)
     write_text_atomic(full_path, full_text)
     write_json_atomic(manifest_path, manifest_payload(libraries, documents, extracted))
+    if args.per_library:
+        written = write_per_library_outputs(output_dir, documents, extracted_by_url)
+        print(f"Wrote {len(written)} per-library files", flush=True)
     failure_path = cache_dir / "failures.json"
     if failure_path.exists():
         failure_path.unlink()

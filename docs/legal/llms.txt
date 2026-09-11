@@ -1,0 +1,35 @@
+# BytePlus Documentation — BytePlus Legal
+
+> Management Console — BytePlus Legal
+
+Source: https://docs.byteplus.com/en/docs/legal
+
+Pages: 28
+- [Terms of Service](https://docs.byteplus.com/en/docs/legal/docs-terms-of-service)
+- [Customer Agreement](https://docs.byteplus.com/en/docs/legal/docs-customer-agreement)
+- [General Terms for AI Services](https://docs.byteplus.com/en/docs/legal/AI-Services-terms)
+- [Acceptable Use Policy](https://docs.byteplus.com/en/docs/legal/docs-acceptable-use-policy)
+- [Privacy Policy](https://docs.byteplus.com/en/docs/legal/docs-privacy-policy)
+- [Payment Terms](https://docs.byteplus.com/en/docs/legal/docs-payment-terms)
+- [Agreement for Resource Transfer Service](https://docs.byteplus.com/en/docs/legal/Agreement_for_Resource_Transfer_Service)
+- [SLA for BytePlus CDN Service](https://docs.byteplus.com/en/docs/legal/docs-sla-for-byteplus-cdn-service)
+- [SLA for WAF Service](https://docs.byteplus.com/en/docs/legal/docs-sla-for-byteplus-web-application-firewall)
+- [SLA for DNS Service](https://docs.byteplus.com/en/docs/legal/docs-sla-for-dns)
+- [SLA for BytePlus GTM Service](https://docs.byteplus.com/en/docs/legal/Msweyq)
+- [SLA for BytePlus PrivateZone Service](https://docs.byteplus.com/en/docs/legal/1uhDh5)
+- [SLA for BytePlus SealSuite](https://docs.byteplus.com/en/docs/legal/docs-sla-for-byteplus-sealsuite)
+- [SLA for BytePlus RTC Service](https://docs.byteplus.com/en/docs/legal/docs-sla-for-byteplus-rtc-service)
+- [SLA for BytePlus GA](https://docs.byteplus.com/en/docs/legal/XG9j-M)
+- [SLA for BytePlus Messaging Service](https://docs.byteplus.com/en/docs/legal/SLA_for_BytePlus_SMS_Service)
+- [Cookies Policy](https://docs.byteplus.com/en/docs/legal/docs-cookie-policy)
+- [SLA for BytePlus ByteHouse Service](https://docs.byteplus.com/en/docs/legal/sla-for-byteplus-bytehouse-service)
+- [Service Specific Terms](https://docs.byteplus.com/en/docs/legal/docs-service-specific-terms)
+- [SLA for BytePlus MLP Service](https://docs.byteplus.com/en/docs/legal/SLA_for_BytePlus_MLP_Service)
+- [SLA for BytePlus Cloud Products](https://docs.byteplus.com/en/docs/legal/cloud-products-SLA)
+- [Data Processing Addendum](https://docs.byteplus.com/en/docs/legal/docs-data-processing-addendum)
+- [Sub-processor List](https://docs.byteplus.com/en/docs/legal/sub-processors-list)
+- [Agreement for Savings Plans](https://docs.byteplus.com/en/docs/legal/Agreement_for_Savings_Plans)
+- [BytePlus GenAI Acceptable Use Policy](https://docs.byteplus.com/en/docs/legal/acceptable_use_policy_byteplus_genai)
+- [Agreement for Enterprise Financial Trusteeship Function](https://docs.byteplus.com/en/docs/legal/docs-agreement-for-enterprise-financial-trusteeship-function)
+- [SLA for Viking AI Search](https://docs.byteplus.com/en/docs/legal/SLA_for_Viking_AI_Search)
+- [SLA for BytePlus Dramagic](https://docs.byteplus.com/en/docs/legal/SLA)

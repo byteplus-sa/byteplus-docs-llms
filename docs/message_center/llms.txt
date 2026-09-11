@@ -1,0 +1,22 @@
+# BytePlus Documentation — BytePlus Message Center
+
+> Management Console — BytePlus Message Center
+
+Source: https://docs.byteplus.com/en/docs/message_center
+
+Pages: 15
+- [What Is Message Center](https://docs.byteplus.com/en/docs/message_center/What-Is-Message-Center)
+- [Message Center Features](https://docs.byteplus.com/en/docs/message_center/Message-Center-Features)
+- [How to Access Message Center](https://docs.byteplus.com/en/docs/message_center/How-to-Access-Message-Center)
+- [How to Enter Platform Messages](https://docs.byteplus.com/en/docs/message_center/How-to-Enter-Platform-Messages)
+- [How to Use Platform Message Features](https://docs.byteplus.com/en/docs/message_center/How-to-Use-Platform-Message-Features)
+- [How to Enter Basic Message Receiving Configuration](https://docs.byteplus.com/en/docs/message_center/How-to-Enter-Basic-Message-Receiving-Configuration)
+- [Message Subscription and Notification Methods](https://docs.byteplus.com/en/docs/message_center/Message-Subscription-and-Notification-Methods)
+- [How to Configure Message Recipients](https://docs.byteplus.com/en/docs/message_center/How-to-Configure-Message-Recipients)
+- [How to Enter Chatbot Message Receiving Configuration](https://docs.byteplus.com/en/docs/message_center/How-to-Enter-Chatbot-Message-Receiving-Configuration)
+- [How to Enter Recipient Management](https://docs.byteplus.com/en/docs/message_center/How-to-Enter-Recipient-Management)
+- [How to Manage Message Recipients](https://docs.byteplus.com/en/docs/message_center/How-to-Manage-Message-Recipients)
+- [How to Manage Recipient Subscription](https://docs.byteplus.com/en/docs/message_center/How-to-Manage-Recipient-Subscription)
+- [What Is IAM Identity Receiving](https://docs.byteplus.com/en/docs/message_center/What-Is-IAM-Identity-Receiving)
+- [How to Configure IAM Identity Receiving](https://docs.byteplus.com/en/docs/message_center/How-to-Configure-IAM-Identity-Receiving)
+- [How to set the language for receiving messages](https://docs.byteplus.com/en/docs/message_center/How_to_set_the_language_for_receiving_messages)

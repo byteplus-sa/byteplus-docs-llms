@@ -1,0 +1,858 @@
+[
+  {
+    "library": "BytePlus Effects",
+    "category": "AI & Personalization",
+    "code": "effects",
+    "pages": 82,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/effects/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/effects/llms-full.txt"
+  },
+  {
+    "library": "BytePlus Recommend",
+    "category": "AI & Personalization",
+    "code": "recommend",
+    "pages": 96,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/recommend/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/recommend/llms-full.txt"
+  },
+  {
+    "library": "BytePlus Video Editor",
+    "category": "AI & Personalization",
+    "code": "video-editor-sdk",
+    "pages": 515,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/video-editor-sdk/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/video-editor-sdk/llms-full.txt"
+  },
+  {
+    "library": "Vision AI",
+    "category": "AI & Personalization",
+    "code": "byteplus-vision",
+    "pages": 26,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/byteplus-vision/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/byteplus-vision/llms-full.txt"
+  },
+  {
+    "library": "BytePlus Video Editor (Archive)",
+    "category": "AI & Personalization",
+    "code": "byteplus-video-editor-sdk",
+    "pages": 97,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/byteplus-video-editor-sdk/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/byteplus-video-editor-sdk/llms-full.txt"
+  },
+  {
+    "library": "ModelArk",
+    "category": "AI & Personalization",
+    "code": "modelark",
+    "pages": 307,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/modelark/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/modelark/llms-full.txt"
+  },
+  {
+    "library": "Machine Learning Platform",
+    "category": "AI & Personalization",
+    "code": "mlp",
+    "pages": 103,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/mlp/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/mlp/llms-full.txt"
+  },
+  {
+    "library": "Vector Database Cloud",
+    "category": "AI & Personalization",
+    "code": "VikingDB",
+    "pages": 330,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/VikingDB/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/VikingDB/llms-full.txt"
+  },
+  {
+    "library": "VikingDB Knowledge Engine",
+    "category": "AI & Personalization",
+    "code": "RAG_Cloud",
+    "pages": 58,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/RAG_Cloud/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/RAG_Cloud/llms-full.txt"
+  },
+  {
+    "library": "Seed Speech",
+    "category": "AI & Personalization",
+    "code": "byteplusvoice",
+    "pages": 38,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/byteplusvoice/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/byteplusvoice/llms-full.txt"
+  },
+  {
+    "library": "Byteplus AskEcho",
+    "category": "AI & Personalization",
+    "code": "askecho",
+    "pages": 5,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/askecho/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/askecho/llms-full.txt"
+  },
+  {
+    "library": "Seedream",
+    "category": "AI & Personalization",
+    "code": "seedream",
+    "pages": 11,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/seedream/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/seedream/llms-full.txt"
+  },
+  {
+    "library": "Viking AI Search",
+    "category": "AI & Personalization",
+    "code": "viking-aisearch",
+    "pages": 101,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/viking-aisearch/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/viking-aisearch/llms-full.txt"
+  },
+  {
+    "library": "BytePlus Kickart",
+    "category": "AI & Personalization",
+    "code": "kickart",
+    "pages": 9,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/kickart/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/kickart/llms-full.txt"
+  },
+  {
+    "library": "Searchinfinity",
+    "category": "AI & Personalization",
+    "code": "searchinfinity",
+    "pages": 8,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/searchinfinity/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/searchinfinity/llms-full.txt"
+  },
+  {
+    "library": "TRAE",
+    "category": "AI & Personalization",
+    "code": "trae",
+    "pages": 24,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/trae/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/trae/llms-full.txt"
+  },
+  {
+    "library": "Market Insights",
+    "category": "AI & Personalization",
+    "code": "mkinsights",
+    "pages": 13,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/mkinsights/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/mkinsights/llms-full.txt"
+  },
+  {
+    "library": "Dramagic",
+    "category": "AI & Personalization",
+    "code": "Dramagic",
+    "pages": 17,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/Dramagic/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/Dramagic/llms-full.txt"
+  },
+  {
+    "library": "Elastic Compute Service",
+    "category": "Compute",
+    "code": "ecs",
+    "pages": 748,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/ecs/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/ecs/llms-full.txt"
+  },
+  {
+    "library": "Auto Scaling",
+    "category": "Compute",
+    "code": "as",
+    "pages": 136,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/as/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/as/llms-full.txt"
+  },
+  {
+    "library": "GPU Compute Service",
+    "category": "Compute",
+    "code": "gpu",
+    "pages": 64,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/gpu/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/gpu/llms-full.txt"
+  },
+  {
+    "library": "Server Migration Center",
+    "category": "Compute",
+    "code": "smc",
+    "pages": 68,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/smc/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/smc/llms-full.txt"
+  },
+  {
+    "library": "AgentKit",
+    "category": "Compute",
+    "code": "agentkit",
+    "pages": 318,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/agentkit/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/agentkit/llms-full.txt"
+  },
+  {
+    "library": "BytePlus ArkClaw Enterprise",
+    "category": "Compute",
+    "code": "ArkClaw",
+    "pages": 306,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/ArkClaw/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/ArkClaw/llms-full.txt"
+  },
+  {
+    "library": "Cloud Monitor",
+    "category": "Containers & Middleware",
+    "code": "cloudmonitor",
+    "pages": 187,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/cloudmonitor/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/cloudmonitor/llms-full.txt"
+  },
+  {
+    "library": "Container Registry",
+    "category": "Containers & Middleware",
+    "code": "cr",
+    "pages": 150,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/cr/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/cr/llms-full.txt"
+  },
+  {
+    "library": "Message Queue for Kafka",
+    "category": "Containers & Middleware",
+    "code": "kafka",
+    "pages": 209,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/kafka/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/kafka/llms-full.txt"
+  },
+  {
+    "library": "Vital Managed Service for Prometheus",
+    "category": "Containers & Middleware",
+    "code": "vmp",
+    "pages": 254,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/vmp/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/vmp/llms-full.txt"
+  },
+  {
+    "library": "Vital Kubernetes Engine",
+    "category": "Containers & Middleware",
+    "code": "vke",
+    "pages": 792,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/vke/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/vke/llms-full.txt"
+  },
+  {
+    "library": "Function Service",
+    "category": "Containers & Middleware",
+    "code": "faas",
+    "pages": 182,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/faas/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/faas/llms-full.txt"
+  },
+  {
+    "library": "API Gateway",
+    "category": "Containers & Middleware",
+    "code": "apig",
+    "pages": 98,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/apig/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/apig/llms-full.txt"
+  },
+  {
+    "library": "Message Queue for RabbitMQ",
+    "category": "Containers & Middleware",
+    "code": "rabbitmq",
+    "pages": 99,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/rabbitmq/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/rabbitmq/llms-full.txt"
+  },
+  {
+    "library": "Code Pipeline",
+    "category": "Containers & Middleware",
+    "code": "cp",
+    "pages": 234,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/cp/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/cp/llms-full.txt"
+  },
+  {
+    "library": "Application Performance Management Plus",
+    "category": "Containers & Middleware",
+    "code": "apmplus",
+    "pages": 518,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/apmplus/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/apmplus/llms-full.txt"
+  },
+  {
+    "library": "Observability Platform",
+    "category": "Containers & Middleware",
+    "code": "Observability_Platform",
+    "pages": 125,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/Observability_Platform/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/Observability_Platform/llms-full.txt"
+  },
+  {
+    "library": "BytePlus CDN",
+    "category": "Content Delivery",
+    "code": "byteplus-cdn",
+    "pages": 1481,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/byteplus-cdn/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/byteplus-cdn/llms-full.txt"
+  },
+  {
+    "library": "ByteHouse",
+    "category": "Data Analytics",
+    "code": "bytehouse",
+    "pages": 500,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/bytehouse/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/bytehouse/llms-full.txt"
+  },
+  {
+    "library": "DataWind",
+    "category": "Data Analytics",
+    "code": "DataWind",
+    "pages": 321,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/DataWind/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/DataWind/llms-full.txt"
+  },
+  {
+    "library": "DataLeap",
+    "category": "Data Analytics",
+    "code": "dataleap",
+    "pages": 129,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/dataleap/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/dataleap/llms-full.txt"
+  },
+  {
+    "library": "Byteplus GMP",
+    "category": "Data Analytics",
+    "code": "datagmp",
+    "pages": 20,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/datagmp/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/datagmp/llms-full.txt"
+  },
+  {
+    "library": "BytePlus CDP",
+    "category": "Data Analytics",
+    "code": "cdp",
+    "pages": 52,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/cdp/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/cdp/llms-full.txt"
+  },
+  {
+    "library": "BytePlus Flink",
+    "category": "Data Analytics",
+    "code": "flink",
+    "pages": 138,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/flink/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/flink/llms-full.txt"
+  },
+  {
+    "library": "BytePlus EMR",
+    "category": "Data Analytics",
+    "code": "E-MapReduce",
+    "pages": 524,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/E-MapReduce/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/E-MapReduce/llms-full.txt"
+  },
+  {
+    "library": "Lake AI Service",
+    "category": "Data Analytics",
+    "code": "Byteplus_LAS",
+    "pages": 160,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/Byteplus_LAS/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/Byteplus_LAS/llms-full.txt"
+  },
+  {
+    "library": "DataAgent",
+    "category": "Data Analytics",
+    "code": "dataagent",
+    "pages": 477,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/dataagent/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/dataagent/llms-full.txt"
+  },
+  {
+    "library": "RDS for MySQL",
+    "category": "Database",
+    "code": "RDS_for_MySQL",
+    "pages": 441,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/RDS_for_MySQL/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/RDS_for_MySQL/llms-full.txt"
+  },
+  {
+    "library": "Cache for Redis",
+    "category": "Database",
+    "code": "redis",
+    "pages": 319,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/redis/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/redis/llms-full.txt"
+  },
+  {
+    "library": "Document Database for MongoDB",
+    "category": "Database",
+    "code": "mongodb",
+    "pages": 207,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/mongodb/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/mongodb/llms-full.txt"
+  },
+  {
+    "library": "Database Transmission Service",
+    "category": "Database",
+    "code": "DTS",
+    "pages": 356,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/DTS/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/DTS/llms-full.txt"
+  },
+  {
+    "library": "RDS for PostgreSQL",
+    "category": "Database",
+    "code": "RDS_for_PG",
+    "pages": 276,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/RDS_for_PG/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/RDS_for_PG/llms-full.txt"
+  },
+  {
+    "library": "Database Workshop",
+    "category": "Database",
+    "code": "DBW",
+    "pages": 317,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/DBW/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/DBW/llms-full.txt"
+  },
+  {
+    "library": "Cloud Search",
+    "category": "Database",
+    "code": "cloudsearch",
+    "pages": 272,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/cloudsearch/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/cloudsearch/llms-full.txt"
+  },
+  {
+    "library": "RDS for SQL Server",
+    "category": "Database",
+    "code": "RDS-for-SQL-Server",
+    "pages": 186,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/RDS-for-SQL-Server/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/RDS-for-SQL-Server/llms-full.txt"
+  },
+  {
+    "library": "Table Storage for HBase",
+    "category": "Database",
+    "code": "HBase",
+    "pages": 111,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/HBase/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/HBase/llms-full.txt"
+  },
+  {
+    "library": "NDB for mysql",
+    "category": "Database",
+    "code": "NDB_for_MySQL",
+    "pages": 233,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/NDB_for_MySQL/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/NDB_for_MySQL/llms-full.txt"
+  },
+  {
+    "library": "Milvus for VectorDB",
+    "category": "Database",
+    "code": "Milvus_for_VectorDB",
+    "pages": 119,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/Milvus_for_VectorDB/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/Milvus_for_VectorDB/llms-full.txt"
+  },
+  {
+    "library": "AI Native BaaS for Supabase",
+    "category": "Database",
+    "code": "aidap",
+    "pages": 251,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/aidap/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/aidap/llms-full.txt"
+  },
+  {
+    "library": "ContextSearch",
+    "category": "Database",
+    "code": "contextsearch",
+    "pages": 41,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/contextsearch/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/contextsearch/llms-full.txt"
+  },
+  {
+    "library": "BytePlus Messaging",
+    "category": "Enterprise Services",
+    "code": "byteplus-sms",
+    "pages": 54,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/byteplus-sms/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/byteplus-sms/llms-full.txt"
+  },
+  {
+    "library": "BytePlus Certificate Center",
+    "category": "Enterprise Services",
+    "code": "byteplus-certificate-center",
+    "pages": 50,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/byteplus-certificate-center/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/byteplus-certificate-center/llms-full.txt"
+  },
+  {
+    "library": "BytePlus DNS Suite",
+    "category": "Enterprise Services",
+    "code": "byteplus-dns-suite",
+    "pages": 212,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/byteplus-dns-suite/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/byteplus-dns-suite/llms-full.txt"
+  },
+  {
+    "library": "BytePlus Domain Names",
+    "category": "Enterprise Services",
+    "code": "domain-names",
+    "pages": 14,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/domain-names/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/domain-names/llms-full.txt"
+  },
+  {
+    "library": "BytePlus Live",
+    "category": "Media Services",
+    "code": "byteplus-livesaas",
+    "pages": 803,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/byteplus-livesaas/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/byteplus-livesaas/llms-full.txt"
+  },
+  {
+    "library": "BytePlus RTC",
+    "category": "Media Services",
+    "code": "byteplus-rtc",
+    "pages": 346,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/byteplus-rtc/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/byteplus-rtc/llms-full.txt"
+  },
+  {
+    "library": "BytePlus MediaLive",
+    "category": "Media Services",
+    "code": "byteplus-media-live",
+    "pages": 1140,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/byteplus-media-live/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/byteplus-media-live/llms-full.txt"
+  },
+  {
+    "library": "BytePlus Video on Demand",
+    "category": "Media Services",
+    "code": "byteplus-vod",
+    "pages": 466,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/byteplus-vod/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/byteplus-vod/llms-full.txt"
+  },
+  {
+    "library": "BytePlus Video One Solution",
+    "category": "Media Services",
+    "code": "byteplus-vos",
+    "pages": 150,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/byteplus-vos/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/byteplus-vos/llms-full.txt"
+  },
+  {
+    "library": "Transit Router",
+    "category": "Networking",
+    "code": "transitrouter",
+    "pages": 212,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/transitrouter/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/transitrouter/llms-full.txt"
+  },
+  {
+    "library": "Cloud Load Balancer",
+    "category": "Networking",
+    "code": "clb",
+    "pages": 425,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/clb/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/clb/llms-full.txt"
+  },
+  {
+    "library": "PrivateLink",
+    "category": "Networking",
+    "code": "privatelink",
+    "pages": 107,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/privatelink/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/privatelink/llms-full.txt"
+  },
+  {
+    "library": "Cloud Enterprise Network",
+    "category": "Networking",
+    "code": "cen",
+    "pages": 111,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/cen/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/cen/llms-full.txt"
+  },
+  {
+    "library": "Virtual Private Cloud",
+    "category": "Networking",
+    "code": "vpc",
+    "pages": 246,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/vpc/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/vpc/llms-full.txt"
+  },
+  {
+    "library": "Elastic IP Address",
+    "category": "Networking",
+    "code": "eip",
+    "pages": 68,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/eip/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/eip/llms-full.txt"
+  },
+  {
+    "library": "Bandwidth Package",
+    "category": "Networking",
+    "code": "bandwidthpackage",
+    "pages": 49,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/bandwidthpackage/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/bandwidthpackage/llms-full.txt"
+  },
+  {
+    "library": "NAT Gateway",
+    "category": "Networking",
+    "code": "natgateway",
+    "pages": 106,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/natgateway/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/natgateway/llms-full.txt"
+  },
+  {
+    "library": "Virtual Private Network",
+    "category": "Networking",
+    "code": "vpn",
+    "pages": 141,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/vpn/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/vpn/llms-full.txt"
+  },
+  {
+    "library": "Direct Connect",
+    "category": "Networking",
+    "code": "directconnect",
+    "pages": 168,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/directconnect/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/directconnect/llms-full.txt"
+  },
+  {
+    "library": "Vortex IP",
+    "category": "Networking",
+    "code": "gavi-sept-test1",
+    "pages": 37,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/gavi-sept-test1/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/gavi-sept-test1/llms-full.txt"
+  },
+  {
+    "library": "IPv6 Gateway",
+    "category": "Networking",
+    "code": "IPv6",
+    "pages": 52,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/IPv6/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/IPv6/llms-full.txt"
+  },
+  {
+    "library": "TrafficPackage",
+    "category": "Networking",
+    "code": "Trafficpackage",
+    "pages": 14,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/Trafficpackage/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/Trafficpackage/llms-full.txt"
+  },
+  {
+    "library": "Network Advisor",
+    "category": "Networking",
+    "code": "NetworkAdvisor",
+    "pages": 45,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/NetworkAdvisor/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/NetworkAdvisor/llms-full.txt"
+  },
+  {
+    "library": "Web Application Firewall",
+    "category": "Security",
+    "code": "waf",
+    "pages": 100,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/waf/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/waf/llms-full.txt"
+  },
+  {
+    "library": "SealSuite",
+    "category": "Security",
+    "code": "sealsuite",
+    "pages": 255,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/sealsuite/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/sealsuite/llms-full.txt"
+  },
+  {
+    "library": "DDoS Protection",
+    "category": "Security",
+    "code": "byteplus-ddos-protection",
+    "pages": 41,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/byteplus-ddos-protection/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/byteplus-ddos-protection/llms-full.txt"
+  },
+  {
+    "library": "Multi-cloud Security Management Platform",
+    "category": "Security",
+    "code": "multicloud-security-management-platform",
+    "pages": 6,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/multicloud-security-management-platform/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/multicloud-security-management-platform/llms-full.txt"
+  },
+  {
+    "library": "Cloud Firewall",
+    "category": "Security",
+    "code": "cloud_firewall",
+    "pages": 42,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/cloud_firewall/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/cloud_firewall/llms-full.txt"
+  },
+  {
+    "library": "Network Detection and Response",
+    "category": "Security",
+    "code": "nta",
+    "pages": 19,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/nta/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/nta/llms-full.txt"
+  },
+  {
+    "library": "BytePlus Key Management Service",
+    "category": "Security",
+    "code": "kms",
+    "pages": 77,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/kms/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/kms/llms-full.txt"
+  },
+  {
+    "library": "LLM Application Firewall",
+    "category": "Security",
+    "code": "LLM-Application-Firewall",
+    "pages": 70,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/LLM-Application-Firewall/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/LLM-Application-Firewall/llms-full.txt"
+  },
+  {
+    "library": "Agent Identity",
+    "category": "Security",
+    "code": "identity",
+    "pages": 18,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/identity/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/identity/llms-full.txt"
+  },
+  {
+    "library": "Torch Object Storage",
+    "category": "Storage",
+    "code": "tos",
+    "pages": 1721,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/tos/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/tos/llms-full.txt"
+  },
+  {
+    "library": "Torch Log Service",
+    "category": "Storage",
+    "code": "tls",
+    "pages": 512,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/tls/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/tls/llms-full.txt"
+  },
+  {
+    "library": "FileNAS",
+    "category": "Storage",
+    "code": "nas",
+    "pages": 126,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/nas/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/nas/llms-full.txt"
+  },
+  {
+    "library": "Parallel File Storage",
+    "category": "Storage",
+    "code": "pfs",
+    "pages": 80,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/pfs/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/pfs/llms-full.txt"
+  },
+  {
+    "library": "Data Migration Service",
+    "category": "Storage",
+    "code": "dms",
+    "pages": 59,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/dms/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/dms/llms-full.txt"
+  },
+  {
+    "library": "BytePlus Billing Console",
+    "category": "Management Console",
+    "code": "byteplus-platform",
+    "pages": 116,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/byteplus-platform/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/byteplus-platform/llms-full.txt"
+  },
+  {
+    "library": "BytePlus Legal",
+    "category": "Management Console",
+    "code": "legal",
+    "pages": 28,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/legal/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/legal/llms-full.txt"
+  },
+  {
+    "library": "BytePlus Support",
+    "category": "Management Console",
+    "code": "support",
+    "pages": 1,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/support/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/support/llms-full.txt"
+  },
+  {
+    "library": "BytePlus Message Center",
+    "category": "Management Console",
+    "code": "message_center",
+    "pages": 15,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/message_center/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/message_center/llms-full.txt"
+  },
+  {
+    "library": "BytePlus Security Bulletins",
+    "category": "Management Console",
+    "code": "byteplus-security-bulletins",
+    "pages": 42,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/byteplus-security-bulletins/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/byteplus-security-bulletins/llms-full.txt"
+  },
+  {
+    "library": "BytePlus Organization",
+    "category": "Management Console",
+    "code": "organization",
+    "pages": 9,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/organization/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/organization/llms-full.txt"
+  },
+  {
+    "library": "BytePlus Cloud Identity",
+    "category": "Management Console",
+    "code": "CloudIdentity",
+    "pages": 22,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/CloudIdentity/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/CloudIdentity/llms-full.txt"
+  },
+  {
+    "library": "Byteplus Resource Management",
+    "category": "Management Console",
+    "code": "resourcemanagement",
+    "pages": 35,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/resourcemanagement/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/resourcemanagement/llms-full.txt"
+  },
+  {
+    "library": "BytePlus IAM",
+    "category": "Management Console",
+    "code": "IAM",
+    "pages": 23,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/IAM/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/IAM/llms-full.txt"
+  },
+  {
+    "library": "BytePlus Account",
+    "category": "Management Console",
+    "code": "Account",
+    "pages": 11,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/Account/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/Account/llms-full.txt"
+  },
+  {
+    "library": "Terraform",
+    "category": "Developer Tools",
+    "code": "tf",
+    "pages": 22,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/tf/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/tf/llms-full.txt"
+  },
+  {
+    "library": "BytePlus DataFinder",
+    "category": "Growth Marketing",
+    "code": "DataFinder",
+    "pages": 309,
+    "index_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/DataFinder/llms.txt",
+    "full_url": "file:///Users/bytedance/Repositories/byteplus-docs-llms/docs/DataFinder/llms-full.txt"
+  }
+]

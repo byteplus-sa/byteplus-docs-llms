@@ -1,0 +1,25 @@
+# BytePlus Documentation — Agent Identity
+
+> Security — Agent Identity
+
+Source: https://docs.byteplus.com/en/docs/identity
+
+Pages: 18
+- [What is Agent Identity](https://docs.byteplus.com/en/docs/identity/What_is_Agent_Identity)
+- [Features](https://docs.byteplus.com/en/docs/identity/Features)
+- [Service region](https://docs.byteplus.com/en/docs/identity/Service_region)
+- [Glossary](https://docs.byteplus.com/en/docs/identity/Glossary)
+- [Enable Agent Identity and complete authorization](https://docs.byteplus.com/en/docs/identity/Enable_Agent_Identity_and_complete_authorization)
+- [Inbound authorization: Enable fast login functionality for your Agent](https://docs.byteplus.com/en/docs/identity/Enable_fast_login_functionality_for_your_Agent)
+- [Inbound authorization: Integrate enterprise SSO for federated login](https://docs.byteplus.com/en/docs/identity/Integrate_enterprise_SSO_for_federated_login)
+- [Outbound authorization: The agent accesses third-party resources on behalf of the user](https://docs.byteplus.com/en/docs/identity/Agent_accesses_third-party_resources_on_behalf_of_the_user)
+- [Outbound authorization: The Agent accesses BytePlus resources on behalf of the user](https://docs.byteplus.com/en/docs/identity/Agent_accesses_BytePlus_resources_on_behalf_of_the_user)
+- [Public beta billing instructions](https://docs.byteplus.com/en/docs/identity/Billing)
+- [Create a user](https://docs.byteplus.com/en/docs/identity/Create_a_user)
+- [Create a client](https://docs.byteplus.com/en/docs/identity/Create_a_client)
+- [Create a user pool](https://docs.byteplus.com/en/docs/identity/Create_a_user_pool)
+- [Add external identity providers](https://docs.byteplus.com/en/docs/identity/Add_external_identity_providers)
+- [Configure authentication information](https://docs.byteplus.com/en/docs/identity/Configure_authentication_information)
+- [Create permission policies](https://docs.byteplus.com/en/docs/identity/Create_permission_policies)
+- [Create a permission gateway](https://docs.byteplus.com/en/docs/identity/Create_a_permission_gateway)
+- [Create credentials](https://docs.byteplus.com/en/docs/identity/Create_credentials)

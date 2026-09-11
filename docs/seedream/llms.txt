@@ -1,0 +1,18 @@
+# BytePlus Documentation — Seedream
+
+> AI & Personalization — Seedream
+
+Source: https://docs.byteplus.com/en/docs/seedream
+
+Pages: 11
+- [One-click deployment](https://docs.byteplus.com/en/docs/seedream/one-click-deployment)
+- [LumiProxyApi Integration Document](https://docs.byteplus.com/en/docs/seedream/LumiProxyApi-Integration-Document)
+- [Canvas User Guide](https://docs.byteplus.com/en/docs/seedream/lumina-canvas-user-guide)
+- [User Guide](https://docs.byteplus.com/en/docs/seedream/user-guide)
+- [Canvas Pro User Guide](https://docs.byteplus.com/en/docs/seedream/canvas-pro-user-guide)
+- [Frequently Asked Questions](https://docs.byteplus.com/en/docs/seedream/faq)
+- [Lumina Introduction](https://docs.byteplus.com/en/docs/seedream/lumina-introduction-page)
+- [Campaign Terms & Conditions](https://docs.byteplus.com/en/docs/seedream/campaign-terms-conditions)
+- [Referral Campaign Terms & Conditions](https://docs.byteplus.com/en/docs/seedream/campaign-terms-conditions-002)
+- [Seedance 2.5 Exclusive Credit Campaign Terms & Conditions](https://docs.byteplus.com/en/docs/seedream/seedance-2-5-campaign)
+- [Lumina KYC Verification](https://docs.byteplus.com/en/docs/seedream/lumina-kyc-verification)

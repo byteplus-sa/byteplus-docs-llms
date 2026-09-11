@@ -1,0 +1,20 @@
+# BytePlus Documentation — Market Insights
+
+> AI & Personalization — Market Insights
+
+Source: https://docs.byteplus.com/en/docs/mkinsights
+
+Pages: 13
+- [About Market Insights Agent](https://docs.byteplus.com/en/docs/mkinsights/AboutMarket)
+- [Start trial](https://docs.byteplus.com/en/docs/mkinsights/Start)
+- [Order full version](https://docs.byteplus.com/en/docs/mkinsights/Order)
+- [Create monitoring task](https://docs.byteplus.com/en/docs/mkinsights/Create)
+- [Manage monitoring tasks](https://docs.byteplus.com/en/docs/mkinsights/Manage)
+- [Optimize monitoring tasks](https://docs.byteplus.com/en/docs/mkinsights/Optimize)
+- [Reputation analysis report](https://docs.byteplus.com/en/docs/mkinsights/Reputation)
+- [Market communication analysis report](https://docs.byteplus.com/en/docs/mkinsights/Market)
+- [Custom report](https://docs.byteplus.com/en/docs/mkinsights/Custom)
+- [AI insight data subscription API](https://docs.byteplus.com/en/docs/mkinsights/insightAPI)
+- [Pricing guide](https://docs.byteplus.com/en/docs/mkinsights/Pricingguide)
+- [Service terms](https://docs.byteplus.com/en/docs/mkinsights/Serviceterms)
+- [Service level agreement](https://docs.byteplus.com/en/docs/mkinsights/Servicelevel)
