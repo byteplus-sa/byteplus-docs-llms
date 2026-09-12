@@ -31,6 +31,37 @@ URL_PATTERN = re.compile(
     r"^https://docs\.byteplus\.com/en/docs/[^/?#]+/[^/?#]+$"
 )
 USER_AGENT = "BytePlus-Docs-LLM-Corpus/1.0 (+local research archive)"
+MAX_RESPONSE_BYTES = 64 * 1024 * 1024
+
+
+class SameOriginRedirectHandler(urllib.request.HTTPRedirectHandler):
+    """Reject cross-host and plaintext-downgrade redirects."""
+
+    def redirect_request(
+        self, req, fp, code, msg, headers, newurl
+    ):
+        original = urllib.parse.urlsplit(req.full_url)
+        target = urllib.parse.urlsplit(newurl)
+        if (original.netloc, original.scheme) != (target.netloc, target.scheme):
+            raise RuntimeError(
+                f"Refusing redirect from {req.full_url} to {newurl}"
+            )
+        return super().redirect_request(req, fp, code, msg, headers, newurl)
+
+
+def read_bounded(response: Any, limit: int = MAX_RESPONSE_BYTES) -> bytes:
+    """Read at most `limit` bytes so a hostile response cannot exhaust memory."""
+    chunks: list[bytes] = []
+    total = 0
+    while True:
+        chunk = response.read(1024 * 1024)
+        if not chunk:
+            break
+        total += len(chunk)
+        if total > limit:
+            raise RuntimeError(f"Response exceeded {limit} bytes")
+        chunks.append(chunk)
+    return b"".join(chunks)
 
 
 @dataclasses.dataclass(frozen=True)
@@ -137,6 +168,10 @@ class Fetcher:
         self.timeout = timeout
         self.refresh = refresh
         self.ssl_context = self._ssl_context()
+        self.opener = urllib.request.build_opener(
+            SameOriginRedirectHandler,
+            urllib.request.HTTPSHandler(context=self.ssl_context),
+        )
 
     @staticmethod
     def _ssl_context() -> ssl.SSLContext:
@@ -172,14 +207,12 @@ class Fetcher:
                 headers={"User-Agent": USER_AGENT, "Accept": "text/html"},
             )
             try:
-                with urllib.request.urlopen(
-                    request, timeout=self.timeout, context=self.ssl_context
-                ) as response:
+                with self.opener.open(request, timeout=self.timeout) as response:
                     status = getattr(response, "status", 200)
                     if status != 200:
                         raise RuntimeError(f"HTTP {status}")
                     charset = response.headers.get_content_charset() or "utf-8"
-                    html = response.read().decode(charset, errors="replace")
+                    html = read_bounded(response).decode(charset, errors="replace")
                 if "window._ROUTER_DATA = " not in html:
                     raise RuntimeError("Response omitted server-rendered route data")
                 temporary = path.with_suffix(path.suffix + ".tmp")
@@ -220,10 +253,8 @@ class Fetcher:
                 },
             )
             try:
-                with urllib.request.urlopen(
-                    request, timeout=self.timeout, context=self.ssl_context
-                ) as response:
-                    value = json.loads(response.read().decode("utf-8"))
+                with self.opener.open(request, timeout=self.timeout) as response:
+                    value = json.loads(read_bounded(response).decode("utf-8"))
                 if not isinstance(value, dict):
                     raise RuntimeError("JSON endpoint returned a non-object value")
                 temporary = path.with_suffix(path.suffix + ".tmp")
@@ -562,6 +593,14 @@ def slugify(value: str) -> str:
     return urllib.parse.quote(value.strip(), safe="-_.~").replace(".", "-")
 
 
+def library_slug(library_code: str) -> str:
+    """Validated, collision-free directory name for a library code."""
+    slug = slugify(library_code)
+    if not re.fullmatch(r"[A-Za-z0-9_-]+", slug):
+        raise ValueError(f"Unsafe library slug derived from {library_code!r}: {slug!r}")
+    return slug
+
+
 def render_library_links(documents: list[Document]) -> str:
     """Render one library's documents as a standalone llms.txt index."""
     first = documents[0]
@@ -615,6 +654,7 @@ def write_per_library_outputs(
     docs_root.mkdir(parents=True, exist_ok=True)
     index_payload: list[dict[str, Any]] = []
     written: list[Path] = []
+    seen_slugs: set[str] = set()
     grouped: dict[tuple[int, int], list[Document]] = {}
     for document in documents:
         grouped.setdefault(
@@ -622,7 +662,14 @@ def write_per_library_outputs(
         ).append(document)
     for _, library_documents in sorted(grouped.items()):
         code = library_documents[0].library_code
-        directory = docs_root / slugify(code)
+        slug = library_slug(code)
+        directory = docs_root / slug
+        if directory.exists() and any(directory.iterdir()) and slug not in seen_slugs:
+            raise ValueError(
+                f"Slug collision: {code!r} maps to {slug!r}, which other library "
+                "output already occupies"
+            )
+        seen_slugs.add(slug)
         directory.mkdir(parents=True, exist_ok=True)
         library_extracted = [
             extracted_by_url[document.url] for document in library_documents

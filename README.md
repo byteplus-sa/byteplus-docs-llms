@@ -95,4 +95,4 @@ as `/robots.txt`, `/sitemap.xml`, and `/llms.txt`, so there is no official
 
 ## Source
 
-All indexed links point to the official BytePlus documentation at [`docs.byteplus.com`](https://docs.byteplus.com/en/docs/). `www.byteplus.com/robots.txt` allows AI search and input use; the crawl honors `Disallow: /api/` paths and uses a descriptive User-Agent.
+All indexed links point to the official BytePlus documentation at [`docs.byteplus.com`](https://docs.byteplus.com/en/docs/). The crawl uses a descriptive User-Agent, verifies TLS certificates, and fetches only from `docs.byteplus.com` and the documented `www.byteplus.com/api/doc/getDocDetail` JSON endpoint (the same data the public docs pages render); it does not fetch arbitrary API paths. Note that `www.byteplus.com/robots.txt` disallows `/api/` for crawlers while serving the same documentation content on the public pages; the corpus only reads that public content.
