@@ -10,7 +10,7 @@ cd "$(dirname "$0")"
 
 INCREMENTAL_ARGS=(--incremental-from llms-full.txt --max-age 2592000 --per-library)
 if [[ "${1:-}" == "--full" ]]; then
-  INCREMENTAL_ARGS=(--per-library)
+  INCREMENTAL_ARGS=(--refresh --per-library)
 elif [[ -n "${1:-}" ]]; then
   echo "usage: refresh.sh [--full]" >&2
   exit 2

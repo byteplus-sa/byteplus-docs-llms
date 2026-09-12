@@ -421,12 +421,14 @@ def document_api_url(document: Document) -> str:
     return f"{API_BASE_URL}/api/doc/getDocDetail?{query}"
 
 
-def extract_document(fetcher: Fetcher, document: Document) -> ExtractedDocument:
+def extract_document(
+    fetcher: Fetcher, document: Document, max_age: float | None = None
+) -> ExtractedDocument:
     api_url = document_api_url(document)
     source: dict[str, Any] = {}
     cur_doc: dict[str, Any] | None = None
     try:
-        payload = fetcher.fetch_json(api_url)
+        payload = fetcher.fetch_json(api_url, max_age=max_age)
         result = payload.get("Result")
         metadata = payload.get("ResponseMetadata")
         if isinstance(result, dict) and not (
@@ -663,13 +665,13 @@ def write_per_library_outputs(
     for _, library_documents in sorted(grouped.items()):
         code = library_documents[0].library_code
         slug = library_slug(code)
-        directory = docs_root / slug
-        if directory.exists() and any(directory.iterdir()) and slug not in seen_slugs:
+        if slug in seen_slugs:
             raise ValueError(
-                f"Slug collision: {code!r} maps to {slug!r}, which other library "
-                "output already occupies"
+                f"Slug collision: {code!r} maps to {slug!r}, already used by "
+                "another library in this run"
             )
         seen_slugs.add(slug)
+        directory = docs_root / slug
         directory.mkdir(parents=True, exist_ok=True)
         library_extracted = [
             extracted_by_url[document.url] for document in library_documents
@@ -684,9 +686,10 @@ def write_per_library_outputs(
                 "library": library_documents[0].library_title,
                 "category": library_documents[0].category,
                 "code": code,
+                "slug": slug,
                 "pages": len(library_documents),
-                "index_url": links_path.resolve().as_uri(),
-                "full_url": full_path.resolve().as_uri(),
+                "index_path": f"{slug}/llms.txt",
+                "full_path": f"{slug}/llms-full.txt",
             }
         )
     index_path = docs_root / "index.json"
@@ -892,7 +895,7 @@ def main() -> int:
     extracted: list[ExtractedDocument] = list(reused.values())
     with concurrent.futures.ThreadPoolExecutor(max_workers=args.workers) as executor:
         futures = {
-            executor.submit(extract_document, fetcher, document): document
+            executor.submit(extract_document, fetcher, document, args.max_age): document
             for document in documents_to_extract
         }
         total = len(futures)
