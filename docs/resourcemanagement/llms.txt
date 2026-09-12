@@ -1,0 +1,42 @@
+# BytePlus Documentation — Byteplus Resource Management
+
+> Management Console — Byteplus Resource Management
+
+Source: https://docs.byteplus.com/en/docs/resourcemanagement
+
+Pages: 35
+- [Product Overview](https://docs.byteplus.com/en/docs/resourcemanagement/Product_Overview)
+- [Quota Overview](https://docs.byteplus.com/en/docs/resourcemanagement/Quota_Overview)
+- [View Quota Change Application History](https://docs.byteplus.com/en/docs/resourcemanagement/View_Quota_Change_Application_History)
+- [Initiate Quota Change Application and View Application History](https://docs.byteplus.com/en/docs/resourcemanagement/Initiate_Quota_Change_Application_and_View_Application_History)
+- [Use of Quota Center by IAM User](https://docs.byteplus.com/en/docs/resourcemanagement/Use_of_Quota_Center_by_IAM_User)
+- [Project Overview](https://docs.byteplus.com/en/docs/resourcemanagement/Project_Overview)
+- [Project Management](https://docs.byteplus.com/en/docs/resourcemanagement/Project_Management)
+- [Project Resource Management](https://docs.byteplus.com/en/docs/resourcemanagement/Project_Resource_Management)
+- [Project Permission Management](https://docs.byteplus.com/en/docs/resourcemanagement/Project_Permission_Management)
+- [Use of Project by IAM User](https://docs.byteplus.com/en/docs/resourcemanagement/Use_of_Project_by_IAM_User)
+- [Resource Share Overview](https://docs.byteplus.com/en/docs/resourcemanagement/Resource_Share_Overview)
+- [Shared by Me Management](https://docs.byteplus.com/en/docs/resourcemanagement/Shared_by_Me_Management)
+- [Shared with Me Management](https://docs.byteplus.com/en/docs/resourcemanagement/Shared_with_Me_Management)
+- [Sharing Policy Library Management](https://docs.byteplus.com/en/docs/resourcemanagement/Sharing_Policy_Library_Management)
+- [Enterprise Organization Sharing Settings](https://docs.byteplus.com/en/docs/resourcemanagement/Enterprise_Organization_Sharing_Settings)
+- [Use of Resource Sharing by IAM User](https://docs.byteplus.com/en/docs/resourcemanagement/Use_of_Resource_Sharing_by_IAM_User)
+- [Create Quota Alert](https://docs.byteplus.com/en/docs/resourcemanagement/Create_Quota_Alert)
+- [Modify Quota Alert](https://docs.byteplus.com/en/docs/resourcemanagement/Modify_Quota_Alert)
+- [Query Quota Alert](https://docs.byteplus.com/en/docs/resourcemanagement/Query_Quota_Alert)
+- [Delete Quota Alert](https://docs.byteplus.com/en/docs/resourcemanagement/Delete_Quota_Alert)
+- [Query Alert History](https://docs.byteplus.com/en/docs/resourcemanagement/Query_Alert_History)
+- [Enable and Disable Quota Template](https://docs.byteplus.com/en/docs/resourcemanagement/Enable_and_Disable_Quota_Template)
+- [Create Quota Template](https://docs.byteplus.com/en/docs/resourcemanagement/Create_Quota_Template)
+- [Modify Quota Template](https://docs.byteplus.com/en/docs/resourcemanagement/Modify_Quota_Template)
+- [Delete Quota Template](https://docs.byteplus.com/en/docs/resourcemanagement/Delete_Quota_Template)
+- [Configure Parent-Child Resource Transfer](https://docs.byteplus.com/en/docs/resourcemanagement/Configure_Parent-Child_Resource_Transfer)
+- [Tag Overview](https://docs.byteplus.com/en/docs/resourcemanagement/Tag_Overview)
+- [Manage Tags and Resources](https://docs.byteplus.com/en/docs/resourcemanagement/Manage_Tags_and_Resources)
+- [Use of Resource Tag by IAM User](https://docs.byteplus.com/en/docs/resourcemanagement/Use_of_Resource_Tag_by_IAM_User)
+- [Createdby Tag](https://docs.byteplus.com/en/docs/resourcemanagement/Createdby_Tag)
+- [Tag Design Principles](https://docs.byteplus.com/en/docs/resourcemanagement/Tag_Design_Principles)
+- [Resource Center Overview](https://docs.byteplus.com/en/docs/resourcemanagement/Resource_Center_Overview)
+- [Activate Resource Center](https://docs.byteplus.com/en/docs/resourcemanagement/Activate_Resource_Center)
+- [View Resources in Resource Center](https://docs.byteplus.com/en/docs/resourcemanagement/View_Resources_in_Resource_Center)
+- [Use of Resource Center by IAM User](https://docs.byteplus.com/en/docs/resourcemanagement/Use_of_Resource_Center_by_IAM_User)

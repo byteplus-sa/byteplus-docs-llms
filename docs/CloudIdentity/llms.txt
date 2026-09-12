@@ -1,0 +1,29 @@
+# BytePlus Documentation — BytePlus Cloud Identity
+
+> Management Console — BytePlus Cloud Identity
+
+Source: https://docs.byteplus.com/en/docs/CloudIdentity
+
+Pages: 22
+- [Product overview](https://docs.byteplus.com/en/docs/CloudIdentity/ProductOverview)
+- [How does the username conflict policy work when Configuring user-based access?](https://docs.byteplus.com/en/docs/CloudIdentity/How-does-the-user-name-conflict-policy-work)
+- [Activate Cloud Identity](https://docs.byteplus.com/en/docs/CloudIdentity/Activate-Cloud-Identity)
+- [Overview of SSO on the login portal of Cloud Identity](https://docs.byteplus.com/en/docs/CloudIdentity/Overview-of-SSO-on-the-login-portal-of-Cloud-Identity)
+- [Configure user-based access authorization](https://docs.byteplus.com/en/docs/CloudIdentity/Configure-user-based-access-authorization)
+- [Configure role-based access authorization](https://docs.byteplus.com/en/docs/CloudIdentity/Configure-role-based-access-authorization)
+- [Basic user management](https://docs.byteplus.com/en/docs/CloudIdentity/Basic-user-management)
+- [Account authorization details](https://docs.byteplus.com/en/docs/CloudIdentity/Account-authorization-details)
+- [Configure multi-account access based on user group](https://docs.byteplus.com/en/docs/CloudIdentity/Configure-multi-account-access-based-on-user-group)
+- [User group management](https://docs.byteplus.com/en/docs/CloudIdentity/user-group-management)
+- [User login settings](https://docs.byteplus.com/en/docs/CloudIdentity/User-login-settings)
+- [Deactivate Cloud Identity](https://docs.byteplus.com/en/docs/CloudIdentity/Close-service)
+- [Create a permission set](https://docs.byteplus.com/en/docs/CloudIdentity/Create-a-permission-set)
+- [Task management](https://docs.byteplus.com/en/docs/CloudIdentity/Task-management)
+- [Log in to the Cloud Identity portal to access BytePlus cloud resources](https://docs.byteplus.com/en/docs/CloudIdentity/Log-in-to-the-Cloud-Identity-portal)
+- [Modify a permission set](https://docs.byteplus.com/en/docs/CloudIdentity/Modify-a-permission-set)
+- [Delete a permission set](https://docs.byteplus.com/en/docs/CloudIdentity/Delete-a-permission-set)
+- [Configure SAML SSO login](https://docs.byteplus.com/en/docs/CloudIdentity/Configure-SAML-SSO-login)
+- [Overview of SCIM-based user synchronization](https://docs.byteplus.com/en/docs/CloudIdentity/Overview-of-SCIM-based-user-synchronization)
+- [Configure SCIM-based user synchronization](https://docs.byteplus.com/en/docs/CloudIdentity/Configure-SCIM-based-user-synchronization)
+- [APIs of SCIM 2.0 supported by Cloud Identity](https://docs.byteplus.com/en/docs/CloudIdentity/APIs-of-SCIM-supported-by-Cloud-Identity)
+- [User Login Security Setting](https://docs.byteplus.com/en/docs/CloudIdentity/User_Login_Security_Setting)

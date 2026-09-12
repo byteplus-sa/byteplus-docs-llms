@@ -1,0 +1,30 @@
+# BytePlus Documentation — BytePlus IAM
+
+> Management Console — BytePlus IAM
+
+Source: https://docs.byteplus.com/en/docs/IAM
+
+Pages: 23
+- [IAM Overview](https://docs.byteplus.com/en/docs/IAM/iam-overview)
+- [Identity provider](https://docs.byteplus.com/en/docs/IAM/identity-provider)
+- [User Security Settings](https://docs.byteplus.com/en/docs/IAM/user-security-settings)
+- [About users](https://docs.byteplus.com/en/docs/IAM/about-users)
+- [Creating a user](https://docs.byteplus.com/en/docs/IAM/creating-a-user)
+- [Editing a user](https://docs.byteplus.com/en/docs/IAM/editing-a-user)
+- [Deleting a user](https://docs.byteplus.com/en/docs/IAM/deleting-a-user)
+- [About user groups](https://docs.byteplus.com/en/docs/IAM/about-user-groups)
+- [Creating a user group](https://docs.byteplus.com/en/docs/IAM/creating-a-user-group)
+- [Editing a user group](https://docs.byteplus.com/en/docs/IAM/editing-a-user-group)
+- [Deleting a user group](https://docs.byteplus.com/en/docs/IAM/deleting-a-user-group)
+- [About roles](https://docs.byteplus.com/en/docs/IAM/about-roles)
+- [Creating a role](https://docs.byteplus.com/en/docs/IAM/creating-a-role)
+- [Editing a role](https://docs.byteplus.com/en/docs/IAM/editing-a-role)
+- [Deleting a role](https://docs.byteplus.com/en/docs/IAM/deleting-a-role)
+- [About policies](https://docs.byteplus.com/en/docs/IAM/about-policies)
+- [What is the policy syntax](https://docs.byteplus.com/en/docs/IAM/what-is-the-policy-syntax)
+- [Creating a user custom policy](https://docs.byteplus.com/en/docs/IAM/creating-a-user-custom-policy)
+- [Editing a user custom policy](https://docs.byteplus.com/en/docs/IAM/editing-a-user-custom-policy)
+- [Deleting a user custom policy](https://docs.byteplus.com/en/docs/IAM/deleting-a-user-custom-policy)
+- [Access Key & API Key](https://docs.byteplus.com/en/docs/IAM/about-access-keys)
+- [Creating an access key](https://docs.byteplus.com/en/docs/IAM/creating-an-access-key)
+- [Managing an access key](https://docs.byteplus.com/en/docs/IAM/managing-an-access-key)

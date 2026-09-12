@@ -1,0 +1,24 @@
+# BytePlus Documentation — Dramagic
+
+> AI & Personalization — Dramagic
+
+Source: https://docs.byteplus.com/en/docs/Dramagic
+
+Pages: 17
+- [Release Notes](https://docs.byteplus.com/en/docs/Dramagic/ReleaseNotes)
+- [Product Introduction](https://docs.byteplus.com/en/docs/Dramagic/ProductIntroduction)
+- [Billing Methods](https://docs.byteplus.com/en/docs/Dramagic/BillingMethods)
+- [Plans & Points Package](https://docs.byteplus.com/en/docs/Dramagic/PlansPackages)
+- [Resource Packages](https://docs.byteplus.com/en/docs/Dramagic/ResourcePackages)
+- [Main Account](https://docs.byteplus.com/en/docs/Dramagic/PrimaryAccount)
+- [Sub Account](https://docs.byteplus.com/en/docs/Dramagic/Sub-Account)
+- [Script to video](https://docs.byteplus.com/en/docs/Dramagic/Scripttovideo)
+- [3D director desk](https://docs.byteplus.com/en/docs/Dramagic/3Ddirectordesk)
+- [Remake studio](https://docs.byteplus.com/en/docs/Dramagic/Remakestudio)
+- [Project](https://docs.byteplus.com/en/docs/Dramagic/Project)
+- [Assets](https://docs.byteplus.com/en/docs/Dramagic/Asset)
+- [Standard Script Format Reference](https://docs.byteplus.com/en/docs/Dramagic/ScriptFormatReference)
+- [Letter of Commitment for Virtual Avatar Asset Compliance](https://docs.byteplus.com/en/docs/Dramagic/LetterofCommitmentforVirtualAvatarAssetCompliance)
+- [Team](https://docs.byteplus.com/en/docs/Dramagic/Team)
+- [Statistics](https://docs.byteplus.com/en/docs/Dramagic/Statistics)
+- [Watermark](https://docs.byteplus.com/en/docs/Dramagic/Watermark)

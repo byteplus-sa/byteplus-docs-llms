@@ -1,0 +1,21 @@
+# BytePlus Documentation — TrafficPackage
+
+> Networking — TrafficPackage
+
+Source: https://docs.byteplus.com/en/docs/Trafficpackage
+
+Pages: 14
+- [What's New](https://docs.byteplus.com/en/docs/Trafficpackage/Whats-New)
+- [What is Shared Traffic Package](https://docs.byteplus.com/en/docs/Trafficpackage/What_is_Shared_Traffic_Package)
+- [Constraints](https://docs.byteplus.com/en/docs/Trafficpackage/Constraints)
+- [Regions](https://docs.byteplus.com/en/docs/Trafficpackage/Regions)
+- [Billing methods](https://docs.byteplus.com/en/docs/Trafficpackage/Billing_Description)
+- [Expiration](https://docs.byteplus.com/en/docs/Trafficpackage/Expiration_notice)
+- [FAQ](https://docs.byteplus.com/en/docs/Trafficpackage/FAQ)
+- [Create and use the Shared Traffic Package](https://docs.byteplus.com/en/docs/Trafficpackage/Create_and_use_the_Shared_Traffic_Package)
+- [Create a Shared Traffic Package](https://docs.byteplus.com/en/docs/Trafficpackage/Create_a_Shared_Traffic_Package)
+- [View the usage details of the Shared Traffic Package](https://docs.byteplus.com/en/docs/Trafficpackage/View_the_usage_details_of_the_Shared_Traffic_Package)
+- [Unsubscribe Shared Traffic Package](https://docs.byteplus.com/en/docs/Trafficpackage/Unsubscribe_Shared_Traffic_Package)
+- [Service-Specific Terms for BytePlus TrifficPackage](https://docs.byteplus.com/en/docs/Trafficpackage/Service-Specific_Terms_for_BytePlus_TrifficPackage)
+- [BytePlus TrafficPackage_Service Level Agreement](https://docs.byteplus.com/en/docs/Trafficpackage/BytePlus_TrafficPackage_Service_Level_Agreement)
+- [Unsubscription](https://docs.byteplus.com/en/docs/Trafficpackage/Unsubscription)

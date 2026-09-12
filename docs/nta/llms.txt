@@ -1,0 +1,26 @@
+# BytePlus Documentation — Network Detection and Response
+
+> Security — Network Detection and Response
+
+Source: https://docs.byteplus.com/en/docs/nta
+
+Pages: 19
+- [What is Network Detection and Response?](https://docs.byteplus.com/en/docs/nta/What-is-BytePlus-Network-Traffic-Analysis)
+- [Product advantages](https://docs.byteplus.com/en/docs/nta/Advantages)
+- [Application scenarios](https://docs.byteplus.com/en/docs/nta/Applicable-scenarios)
+- [Enabling detection function and viewing alerts](https://docs.byteplus.com/en/docs/nta/Getting-started-with-NTA)
+- [Security overview](https://docs.byteplus.com/en/docs/nta/overview)
+- [Viewing log analysis data](https://docs.byteplus.com/en/docs/nta/Viewing-log-analysis-data)
+- [Viewing traffic analysis data](https://docs.byteplus.com/en/docs/nta/Viewing-traffic-analysis-data)
+- [Detection and defense configuration](https://docs.byteplus.com/en/docs/nta/Configuring-detection-and-defense)
+- [Viewing abnormal behavior information](https://docs.byteplus.com/en/docs/nta/Viewing-abnormal-behavior-information)
+- [Viewing alert events](https://docs.byteplus.com/en/docs/nta/Viewing-alert-events)
+- [Viewing asset risk information](https://docs.byteplus.com/en/docs/nta/Viewing-asset-risk-information)
+- [Adding items to allowlist](https://docs.byteplus.com/en/docs/nta/Adding-items-to-the-allowlist)
+- [Enabling detection](https://docs.byteplus.com/en/docs/nta/Enabling-detection)
+- [Managing instances](https://docs.byteplus.com/en/docs/nta/Managing-instances)
+- [FAQ](https://docs.byteplus.com/en/docs/nta/FAQs)
+- [Service Level Agreement for BytePlus Network Detection and Response](https://docs.byteplus.com/en/docs/nta/SLA)
+- [Service Specific Terms for BytePlus Network Detection and Response](https://docs.byteplus.com/en/docs/nta/Specific-Terms)
+- [Network Detection and Response Pricing](https://docs.byteplus.com/en/docs/nta/pricing)
+- [Network Detection and Response release notes](https://docs.byteplus.com/en/docs/nta/release-notes)

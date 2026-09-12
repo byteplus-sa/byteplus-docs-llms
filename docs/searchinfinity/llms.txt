@@ -1,0 +1,15 @@
+# BytePlus Documentation — Searchinfinity
+
+> AI & Personalization — Searchinfinity
+
+Source: https://docs.byteplus.com/en/docs/searchinfinity
+
+Pages: 8
+- [Specific Terms for the Searchinfinity Service](https://docs.byteplus.com/en/docs/searchinfinity/Specific_Terms_for_the_Searchinfinity_Service)
+- [Byteplus Searchinfinity Service Level Agreement](https://docs.byteplus.com/en/docs/searchinfinity/Byteplus_Searchinfinity_Service_Level_Agreement)
+- [Searchinfinity available APIs](https://docs.byteplus.com/en/docs/searchinfinity/Searchinfinity_available_APIs)
+- [Searchinfinity web search API Reference](https://docs.byteplus.com/en/docs/searchinfinity/Searchinfinity_API_Reference)
+- [Searchinfinity pricing](https://docs.byteplus.com/en/docs/searchinfinity/Searchinfinity_pricing)
+- [Searchinfinity Fetch](https://docs.byteplus.com/en/docs/searchinfinity/Searchinfinity_Fetch)
+- [AI Tool Integration Guide](https://docs.byteplus.com/en/docs/searchinfinity/AI_Tool_Integration_Guide)
+- [Release Note](https://docs.byteplus.com/en/docs/searchinfinity/Release_Note)

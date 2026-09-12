@@ -1,0 +1,965 @@
+[
+  {
+    "library": "BytePlus Effects",
+    "category": "AI & Personalization",
+    "code": "effects",
+    "slug": "effects",
+    "pages": 82,
+    "index_path": "effects/llms.txt",
+    "full_path": "effects/llms-full.txt"
+  },
+  {
+    "library": "BytePlus Recommend",
+    "category": "AI & Personalization",
+    "code": "recommend",
+    "slug": "recommend",
+    "pages": 96,
+    "index_path": "recommend/llms.txt",
+    "full_path": "recommend/llms-full.txt"
+  },
+  {
+    "library": "BytePlus Video Editor",
+    "category": "AI & Personalization",
+    "code": "video-editor-sdk",
+    "slug": "video-editor-sdk",
+    "pages": 515,
+    "index_path": "video-editor-sdk/llms.txt",
+    "full_path": "video-editor-sdk/llms-full.txt"
+  },
+  {
+    "library": "Vision AI",
+    "category": "AI & Personalization",
+    "code": "byteplus-vision",
+    "slug": "byteplus-vision",
+    "pages": 26,
+    "index_path": "byteplus-vision/llms.txt",
+    "full_path": "byteplus-vision/llms-full.txt"
+  },
+  {
+    "library": "BytePlus Video Editor (Archive)",
+    "category": "AI & Personalization",
+    "code": "byteplus-video-editor-sdk",
+    "slug": "byteplus-video-editor-sdk",
+    "pages": 97,
+    "index_path": "byteplus-video-editor-sdk/llms.txt",
+    "full_path": "byteplus-video-editor-sdk/llms-full.txt"
+  },
+  {
+    "library": "ModelArk",
+    "category": "AI & Personalization",
+    "code": "modelark",
+    "slug": "modelark",
+    "pages": 307,
+    "index_path": "modelark/llms.txt",
+    "full_path": "modelark/llms-full.txt"
+  },
+  {
+    "library": "Machine Learning Platform",
+    "category": "AI & Personalization",
+    "code": "mlp",
+    "slug": "mlp",
+    "pages": 103,
+    "index_path": "mlp/llms.txt",
+    "full_path": "mlp/llms-full.txt"
+  },
+  {
+    "library": "Vector Database Cloud",
+    "category": "AI & Personalization",
+    "code": "VikingDB",
+    "slug": "VikingDB",
+    "pages": 330,
+    "index_path": "VikingDB/llms.txt",
+    "full_path": "VikingDB/llms-full.txt"
+  },
+  {
+    "library": "VikingDB Knowledge Engine",
+    "category": "AI & Personalization",
+    "code": "RAG_Cloud",
+    "slug": "RAG_Cloud",
+    "pages": 58,
+    "index_path": "RAG_Cloud/llms.txt",
+    "full_path": "RAG_Cloud/llms-full.txt"
+  },
+  {
+    "library": "Seed Speech",
+    "category": "AI & Personalization",
+    "code": "byteplusvoice",
+    "slug": "byteplusvoice",
+    "pages": 38,
+    "index_path": "byteplusvoice/llms.txt",
+    "full_path": "byteplusvoice/llms-full.txt"
+  },
+  {
+    "library": "Byteplus AskEcho",
+    "category": "AI & Personalization",
+    "code": "askecho",
+    "slug": "askecho",
+    "pages": 5,
+    "index_path": "askecho/llms.txt",
+    "full_path": "askecho/llms-full.txt"
+  },
+  {
+    "library": "Seedream",
+    "category": "AI & Personalization",
+    "code": "seedream",
+    "slug": "seedream",
+    "pages": 11,
+    "index_path": "seedream/llms.txt",
+    "full_path": "seedream/llms-full.txt"
+  },
+  {
+    "library": "Viking AI Search",
+    "category": "AI & Personalization",
+    "code": "viking-aisearch",
+    "slug": "viking-aisearch",
+    "pages": 101,
+    "index_path": "viking-aisearch/llms.txt",
+    "full_path": "viking-aisearch/llms-full.txt"
+  },
+  {
+    "library": "BytePlus Kickart",
+    "category": "AI & Personalization",
+    "code": "kickart",
+    "slug": "kickart",
+    "pages": 9,
+    "index_path": "kickart/llms.txt",
+    "full_path": "kickart/llms-full.txt"
+  },
+  {
+    "library": "Searchinfinity",
+    "category": "AI & Personalization",
+    "code": "searchinfinity",
+    "slug": "searchinfinity",
+    "pages": 8,
+    "index_path": "searchinfinity/llms.txt",
+    "full_path": "searchinfinity/llms-full.txt"
+  },
+  {
+    "library": "TRAE",
+    "category": "AI & Personalization",
+    "code": "trae",
+    "slug": "trae",
+    "pages": 24,
+    "index_path": "trae/llms.txt",
+    "full_path": "trae/llms-full.txt"
+  },
+  {
+    "library": "Market Insights",
+    "category": "AI & Personalization",
+    "code": "mkinsights",
+    "slug": "mkinsights",
+    "pages": 13,
+    "index_path": "mkinsights/llms.txt",
+    "full_path": "mkinsights/llms-full.txt"
+  },
+  {
+    "library": "Dramagic",
+    "category": "AI & Personalization",
+    "code": "Dramagic",
+    "slug": "Dramagic",
+    "pages": 17,
+    "index_path": "Dramagic/llms.txt",
+    "full_path": "Dramagic/llms-full.txt"
+  },
+  {
+    "library": "Elastic Compute Service",
+    "category": "Compute",
+    "code": "ecs",
+    "slug": "ecs",
+    "pages": 748,
+    "index_path": "ecs/llms.txt",
+    "full_path": "ecs/llms-full.txt"
+  },
+  {
+    "library": "Auto Scaling",
+    "category": "Compute",
+    "code": "as",
+    "slug": "as",
+    "pages": 136,
+    "index_path": "as/llms.txt",
+    "full_path": "as/llms-full.txt"
+  },
+  {
+    "library": "GPU Compute Service",
+    "category": "Compute",
+    "code": "gpu",
+    "slug": "gpu",
+    "pages": 64,
+    "index_path": "gpu/llms.txt",
+    "full_path": "gpu/llms-full.txt"
+  },
+  {
+    "library": "Server Migration Center",
+    "category": "Compute",
+    "code": "smc",
+    "slug": "smc",
+    "pages": 68,
+    "index_path": "smc/llms.txt",
+    "full_path": "smc/llms-full.txt"
+  },
+  {
+    "library": "AgentKit",
+    "category": "Compute",
+    "code": "agentkit",
+    "slug": "agentkit",
+    "pages": 318,
+    "index_path": "agentkit/llms.txt",
+    "full_path": "agentkit/llms-full.txt"
+  },
+  {
+    "library": "BytePlus ArkClaw Enterprise",
+    "category": "Compute",
+    "code": "ArkClaw",
+    "slug": "ArkClaw",
+    "pages": 306,
+    "index_path": "ArkClaw/llms.txt",
+    "full_path": "ArkClaw/llms-full.txt"
+  },
+  {
+    "library": "Cloud Monitor",
+    "category": "Containers & Middleware",
+    "code": "cloudmonitor",
+    "slug": "cloudmonitor",
+    "pages": 187,
+    "index_path": "cloudmonitor/llms.txt",
+    "full_path": "cloudmonitor/llms-full.txt"
+  },
+  {
+    "library": "Container Registry",
+    "category": "Containers & Middleware",
+    "code": "cr",
+    "slug": "cr",
+    "pages": 150,
+    "index_path": "cr/llms.txt",
+    "full_path": "cr/llms-full.txt"
+  },
+  {
+    "library": "Message Queue for Kafka",
+    "category": "Containers & Middleware",
+    "code": "kafka",
+    "slug": "kafka",
+    "pages": 209,
+    "index_path": "kafka/llms.txt",
+    "full_path": "kafka/llms-full.txt"
+  },
+  {
+    "library": "Vital Managed Service for Prometheus",
+    "category": "Containers & Middleware",
+    "code": "vmp",
+    "slug": "vmp",
+    "pages": 254,
+    "index_path": "vmp/llms.txt",
+    "full_path": "vmp/llms-full.txt"
+  },
+  {
+    "library": "Vital Kubernetes Engine",
+    "category": "Containers & Middleware",
+    "code": "vke",
+    "slug": "vke",
+    "pages": 792,
+    "index_path": "vke/llms.txt",
+    "full_path": "vke/llms-full.txt"
+  },
+  {
+    "library": "Function Service",
+    "category": "Containers & Middleware",
+    "code": "faas",
+    "slug": "faas",
+    "pages": 182,
+    "index_path": "faas/llms.txt",
+    "full_path": "faas/llms-full.txt"
+  },
+  {
+    "library": "API Gateway",
+    "category": "Containers & Middleware",
+    "code": "apig",
+    "slug": "apig",
+    "pages": 98,
+    "index_path": "apig/llms.txt",
+    "full_path": "apig/llms-full.txt"
+  },
+  {
+    "library": "Message Queue for RabbitMQ",
+    "category": "Containers & Middleware",
+    "code": "rabbitmq",
+    "slug": "rabbitmq",
+    "pages": 99,
+    "index_path": "rabbitmq/llms.txt",
+    "full_path": "rabbitmq/llms-full.txt"
+  },
+  {
+    "library": "Code Pipeline",
+    "category": "Containers & Middleware",
+    "code": "cp",
+    "slug": "cp",
+    "pages": 234,
+    "index_path": "cp/llms.txt",
+    "full_path": "cp/llms-full.txt"
+  },
+  {
+    "library": "Application Performance Management Plus",
+    "category": "Containers & Middleware",
+    "code": "apmplus",
+    "slug": "apmplus",
+    "pages": 518,
+    "index_path": "apmplus/llms.txt",
+    "full_path": "apmplus/llms-full.txt"
+  },
+  {
+    "library": "Observability Platform",
+    "category": "Containers & Middleware",
+    "code": "Observability_Platform",
+    "slug": "Observability_Platform",
+    "pages": 125,
+    "index_path": "Observability_Platform/llms.txt",
+    "full_path": "Observability_Platform/llms-full.txt"
+  },
+  {
+    "library": "BytePlus CDN",
+    "category": "Content Delivery",
+    "code": "byteplus-cdn",
+    "slug": "byteplus-cdn",
+    "pages": 1481,
+    "index_path": "byteplus-cdn/llms.txt",
+    "full_path": "byteplus-cdn/llms-full.txt"
+  },
+  {
+    "library": "ByteHouse",
+    "category": "Data Analytics",
+    "code": "bytehouse",
+    "slug": "bytehouse",
+    "pages": 500,
+    "index_path": "bytehouse/llms.txt",
+    "full_path": "bytehouse/llms-full.txt"
+  },
+  {
+    "library": "DataWind",
+    "category": "Data Analytics",
+    "code": "DataWind",
+    "slug": "DataWind",
+    "pages": 321,
+    "index_path": "DataWind/llms.txt",
+    "full_path": "DataWind/llms-full.txt"
+  },
+  {
+    "library": "DataLeap",
+    "category": "Data Analytics",
+    "code": "dataleap",
+    "slug": "dataleap",
+    "pages": 129,
+    "index_path": "dataleap/llms.txt",
+    "full_path": "dataleap/llms-full.txt"
+  },
+  {
+    "library": "Byteplus GMP",
+    "category": "Data Analytics",
+    "code": "datagmp",
+    "slug": "datagmp",
+    "pages": 20,
+    "index_path": "datagmp/llms.txt",
+    "full_path": "datagmp/llms-full.txt"
+  },
+  {
+    "library": "BytePlus CDP",
+    "category": "Data Analytics",
+    "code": "cdp",
+    "slug": "cdp",
+    "pages": 52,
+    "index_path": "cdp/llms.txt",
+    "full_path": "cdp/llms-full.txt"
+  },
+  {
+    "library": "BytePlus Flink",
+    "category": "Data Analytics",
+    "code": "flink",
+    "slug": "flink",
+    "pages": 138,
+    "index_path": "flink/llms.txt",
+    "full_path": "flink/llms-full.txt"
+  },
+  {
+    "library": "BytePlus EMR",
+    "category": "Data Analytics",
+    "code": "E-MapReduce",
+    "slug": "E-MapReduce",
+    "pages": 524,
+    "index_path": "E-MapReduce/llms.txt",
+    "full_path": "E-MapReduce/llms-full.txt"
+  },
+  {
+    "library": "Lake AI Service",
+    "category": "Data Analytics",
+    "code": "Byteplus_LAS",
+    "slug": "Byteplus_LAS",
+    "pages": 160,
+    "index_path": "Byteplus_LAS/llms.txt",
+    "full_path": "Byteplus_LAS/llms-full.txt"
+  },
+  {
+    "library": "DataAgent",
+    "category": "Data Analytics",
+    "code": "dataagent",
+    "slug": "dataagent",
+    "pages": 477,
+    "index_path": "dataagent/llms.txt",
+    "full_path": "dataagent/llms-full.txt"
+  },
+  {
+    "library": "RDS for MySQL",
+    "category": "Database",
+    "code": "RDS_for_MySQL",
+    "slug": "RDS_for_MySQL",
+    "pages": 441,
+    "index_path": "RDS_for_MySQL/llms.txt",
+    "full_path": "RDS_for_MySQL/llms-full.txt"
+  },
+  {
+    "library": "Cache for Redis",
+    "category": "Database",
+    "code": "redis",
+    "slug": "redis",
+    "pages": 319,
+    "index_path": "redis/llms.txt",
+    "full_path": "redis/llms-full.txt"
+  },
+  {
+    "library": "Document Database for MongoDB",
+    "category": "Database",
+    "code": "mongodb",
+    "slug": "mongodb",
+    "pages": 207,
+    "index_path": "mongodb/llms.txt",
+    "full_path": "mongodb/llms-full.txt"
+  },
+  {
+    "library": "Database Transmission Service",
+    "category": "Database",
+    "code": "DTS",
+    "slug": "DTS",
+    "pages": 356,
+    "index_path": "DTS/llms.txt",
+    "full_path": "DTS/llms-full.txt"
+  },
+  {
+    "library": "RDS for PostgreSQL",
+    "category": "Database",
+    "code": "RDS_for_PG",
+    "slug": "RDS_for_PG",
+    "pages": 276,
+    "index_path": "RDS_for_PG/llms.txt",
+    "full_path": "RDS_for_PG/llms-full.txt"
+  },
+  {
+    "library": "Database Workshop",
+    "category": "Database",
+    "code": "DBW",
+    "slug": "DBW",
+    "pages": 317,
+    "index_path": "DBW/llms.txt",
+    "full_path": "DBW/llms-full.txt"
+  },
+  {
+    "library": "Cloud Search",
+    "category": "Database",
+    "code": "cloudsearch",
+    "slug": "cloudsearch",
+    "pages": 272,
+    "index_path": "cloudsearch/llms.txt",
+    "full_path": "cloudsearch/llms-full.txt"
+  },
+  {
+    "library": "RDS for SQL Server",
+    "category": "Database",
+    "code": "RDS-for-SQL-Server",
+    "slug": "RDS-for-SQL-Server",
+    "pages": 186,
+    "index_path": "RDS-for-SQL-Server/llms.txt",
+    "full_path": "RDS-for-SQL-Server/llms-full.txt"
+  },
+  {
+    "library": "Table Storage for HBase",
+    "category": "Database",
+    "code": "HBase",
+    "slug": "HBase",
+    "pages": 111,
+    "index_path": "HBase/llms.txt",
+    "full_path": "HBase/llms-full.txt"
+  },
+  {
+    "library": "NDB for mysql",
+    "category": "Database",
+    "code": "NDB_for_MySQL",
+    "slug": "NDB_for_MySQL",
+    "pages": 233,
+    "index_path": "NDB_for_MySQL/llms.txt",
+    "full_path": "NDB_for_MySQL/llms-full.txt"
+  },
+  {
+    "library": "Milvus for VectorDB",
+    "category": "Database",
+    "code": "Milvus_for_VectorDB",
+    "slug": "Milvus_for_VectorDB",
+    "pages": 119,
+    "index_path": "Milvus_for_VectorDB/llms.txt",
+    "full_path": "Milvus_for_VectorDB/llms-full.txt"
+  },
+  {
+    "library": "AI Native BaaS for Supabase",
+    "category": "Database",
+    "code": "aidap",
+    "slug": "aidap",
+    "pages": 251,
+    "index_path": "aidap/llms.txt",
+    "full_path": "aidap/llms-full.txt"
+  },
+  {
+    "library": "ContextSearch",
+    "category": "Database",
+    "code": "contextsearch",
+    "slug": "contextsearch",
+    "pages": 41,
+    "index_path": "contextsearch/llms.txt",
+    "full_path": "contextsearch/llms-full.txt"
+  },
+  {
+    "library": "BytePlus Messaging",
+    "category": "Enterprise Services",
+    "code": "byteplus-sms",
+    "slug": "byteplus-sms",
+    "pages": 54,
+    "index_path": "byteplus-sms/llms.txt",
+    "full_path": "byteplus-sms/llms-full.txt"
+  },
+  {
+    "library": "BytePlus Certificate Center",
+    "category": "Enterprise Services",
+    "code": "byteplus-certificate-center",
+    "slug": "byteplus-certificate-center",
+    "pages": 50,
+    "index_path": "byteplus-certificate-center/llms.txt",
+    "full_path": "byteplus-certificate-center/llms-full.txt"
+  },
+  {
+    "library": "BytePlus DNS Suite",
+    "category": "Enterprise Services",
+    "code": "byteplus-dns-suite",
+    "slug": "byteplus-dns-suite",
+    "pages": 212,
+    "index_path": "byteplus-dns-suite/llms.txt",
+    "full_path": "byteplus-dns-suite/llms-full.txt"
+  },
+  {
+    "library": "BytePlus Domain Names",
+    "category": "Enterprise Services",
+    "code": "domain-names",
+    "slug": "domain-names",
+    "pages": 14,
+    "index_path": "domain-names/llms.txt",
+    "full_path": "domain-names/llms-full.txt"
+  },
+  {
+    "library": "BytePlus Live",
+    "category": "Media Services",
+    "code": "byteplus-livesaas",
+    "slug": "byteplus-livesaas",
+    "pages": 803,
+    "index_path": "byteplus-livesaas/llms.txt",
+    "full_path": "byteplus-livesaas/llms-full.txt"
+  },
+  {
+    "library": "BytePlus RTC",
+    "category": "Media Services",
+    "code": "byteplus-rtc",
+    "slug": "byteplus-rtc",
+    "pages": 346,
+    "index_path": "byteplus-rtc/llms.txt",
+    "full_path": "byteplus-rtc/llms-full.txt"
+  },
+  {
+    "library": "BytePlus MediaLive",
+    "category": "Media Services",
+    "code": "byteplus-media-live",
+    "slug": "byteplus-media-live",
+    "pages": 1140,
+    "index_path": "byteplus-media-live/llms.txt",
+    "full_path": "byteplus-media-live/llms-full.txt"
+  },
+  {
+    "library": "BytePlus Video on Demand",
+    "category": "Media Services",
+    "code": "byteplus-vod",
+    "slug": "byteplus-vod",
+    "pages": 466,
+    "index_path": "byteplus-vod/llms.txt",
+    "full_path": "byteplus-vod/llms-full.txt"
+  },
+  {
+    "library": "BytePlus Video One Solution",
+    "category": "Media Services",
+    "code": "byteplus-vos",
+    "slug": "byteplus-vos",
+    "pages": 150,
+    "index_path": "byteplus-vos/llms.txt",
+    "full_path": "byteplus-vos/llms-full.txt"
+  },
+  {
+    "library": "Transit Router",
+    "category": "Networking",
+    "code": "transitrouter",
+    "slug": "transitrouter",
+    "pages": 212,
+    "index_path": "transitrouter/llms.txt",
+    "full_path": "transitrouter/llms-full.txt"
+  },
+  {
+    "library": "Cloud Load Balancer",
+    "category": "Networking",
+    "code": "clb",
+    "slug": "clb",
+    "pages": 425,
+    "index_path": "clb/llms.txt",
+    "full_path": "clb/llms-full.txt"
+  },
+  {
+    "library": "PrivateLink",
+    "category": "Networking",
+    "code": "privatelink",
+    "slug": "privatelink",
+    "pages": 107,
+    "index_path": "privatelink/llms.txt",
+    "full_path": "privatelink/llms-full.txt"
+  },
+  {
+    "library": "Cloud Enterprise Network",
+    "category": "Networking",
+    "code": "cen",
+    "slug": "cen",
+    "pages": 111,
+    "index_path": "cen/llms.txt",
+    "full_path": "cen/llms-full.txt"
+  },
+  {
+    "library": "Virtual Private Cloud",
+    "category": "Networking",
+    "code": "vpc",
+    "slug": "vpc",
+    "pages": 246,
+    "index_path": "vpc/llms.txt",
+    "full_path": "vpc/llms-full.txt"
+  },
+  {
+    "library": "Elastic IP Address",
+    "category": "Networking",
+    "code": "eip",
+    "slug": "eip",
+    "pages": 68,
+    "index_path": "eip/llms.txt",
+    "full_path": "eip/llms-full.txt"
+  },
+  {
+    "library": "Bandwidth Package",
+    "category": "Networking",
+    "code": "bandwidthpackage",
+    "slug": "bandwidthpackage",
+    "pages": 49,
+    "index_path": "bandwidthpackage/llms.txt",
+    "full_path": "bandwidthpackage/llms-full.txt"
+  },
+  {
+    "library": "NAT Gateway",
+    "category": "Networking",
+    "code": "natgateway",
+    "slug": "natgateway",
+    "pages": 106,
+    "index_path": "natgateway/llms.txt",
+    "full_path": "natgateway/llms-full.txt"
+  },
+  {
+    "library": "Virtual Private Network",
+    "category": "Networking",
+    "code": "vpn",
+    "slug": "vpn",
+    "pages": 141,
+    "index_path": "vpn/llms.txt",
+    "full_path": "vpn/llms-full.txt"
+  },
+  {
+    "library": "Direct Connect",
+    "category": "Networking",
+    "code": "directconnect",
+    "slug": "directconnect",
+    "pages": 168,
+    "index_path": "directconnect/llms.txt",
+    "full_path": "directconnect/llms-full.txt"
+  },
+  {
+    "library": "Vortex IP",
+    "category": "Networking",
+    "code": "gavi-sept-test1",
+    "slug": "gavi-sept-test1",
+    "pages": 37,
+    "index_path": "gavi-sept-test1/llms.txt",
+    "full_path": "gavi-sept-test1/llms-full.txt"
+  },
+  {
+    "library": "IPv6 Gateway",
+    "category": "Networking",
+    "code": "IPv6",
+    "slug": "IPv6",
+    "pages": 52,
+    "index_path": "IPv6/llms.txt",
+    "full_path": "IPv6/llms-full.txt"
+  },
+  {
+    "library": "TrafficPackage",
+    "category": "Networking",
+    "code": "Trafficpackage",
+    "slug": "Trafficpackage",
+    "pages": 14,
+    "index_path": "Trafficpackage/llms.txt",
+    "full_path": "Trafficpackage/llms-full.txt"
+  },
+  {
+    "library": "Network Advisor",
+    "category": "Networking",
+    "code": "NetworkAdvisor",
+    "slug": "NetworkAdvisor",
+    "pages": 45,
+    "index_path": "NetworkAdvisor/llms.txt",
+    "full_path": "NetworkAdvisor/llms-full.txt"
+  },
+  {
+    "library": "Web Application Firewall",
+    "category": "Security",
+    "code": "waf",
+    "slug": "waf",
+    "pages": 100,
+    "index_path": "waf/llms.txt",
+    "full_path": "waf/llms-full.txt"
+  },
+  {
+    "library": "SealSuite",
+    "category": "Security",
+    "code": "sealsuite",
+    "slug": "sealsuite",
+    "pages": 255,
+    "index_path": "sealsuite/llms.txt",
+    "full_path": "sealsuite/llms-full.txt"
+  },
+  {
+    "library": "DDoS Protection",
+    "category": "Security",
+    "code": "byteplus-ddos-protection",
+    "slug": "byteplus-ddos-protection",
+    "pages": 41,
+    "index_path": "byteplus-ddos-protection/llms.txt",
+    "full_path": "byteplus-ddos-protection/llms-full.txt"
+  },
+  {
+    "library": "Multi-cloud Security Management Platform",
+    "category": "Security",
+    "code": "multicloud-security-management-platform",
+    "slug": "multicloud-security-management-platform",
+    "pages": 6,
+    "index_path": "multicloud-security-management-platform/llms.txt",
+    "full_path": "multicloud-security-management-platform/llms-full.txt"
+  },
+  {
+    "library": "Cloud Firewall",
+    "category": "Security",
+    "code": "cloud_firewall",
+    "slug": "cloud_firewall",
+    "pages": 42,
+    "index_path": "cloud_firewall/llms.txt",
+    "full_path": "cloud_firewall/llms-full.txt"
+  },
+  {
+    "library": "Network Detection and Response",
+    "category": "Security",
+    "code": "nta",
+    "slug": "nta",
+    "pages": 19,
+    "index_path": "nta/llms.txt",
+    "full_path": "nta/llms-full.txt"
+  },
+  {
+    "library": "BytePlus Key Management Service",
+    "category": "Security",
+    "code": "kms",
+    "slug": "kms",
+    "pages": 77,
+    "index_path": "kms/llms.txt",
+    "full_path": "kms/llms-full.txt"
+  },
+  {
+    "library": "LLM Application Firewall",
+    "category": "Security",
+    "code": "LLM-Application-Firewall",
+    "slug": "LLM-Application-Firewall",
+    "pages": 70,
+    "index_path": "LLM-Application-Firewall/llms.txt",
+    "full_path": "LLM-Application-Firewall/llms-full.txt"
+  },
+  {
+    "library": "Agent Identity",
+    "category": "Security",
+    "code": "identity",
+    "slug": "identity",
+    "pages": 18,
+    "index_path": "identity/llms.txt",
+    "full_path": "identity/llms-full.txt"
+  },
+  {
+    "library": "Torch Object Storage",
+    "category": "Storage",
+    "code": "tos",
+    "slug": "tos",
+    "pages": 1721,
+    "index_path": "tos/llms.txt",
+    "full_path": "tos/llms-full.txt"
+  },
+  {
+    "library": "Torch Log Service",
+    "category": "Storage",
+    "code": "tls",
+    "slug": "tls",
+    "pages": 512,
+    "index_path": "tls/llms.txt",
+    "full_path": "tls/llms-full.txt"
+  },
+  {
+    "library": "FileNAS",
+    "category": "Storage",
+    "code": "nas",
+    "slug": "nas",
+    "pages": 126,
+    "index_path": "nas/llms.txt",
+    "full_path": "nas/llms-full.txt"
+  },
+  {
+    "library": "Parallel File Storage",
+    "category": "Storage",
+    "code": "pfs",
+    "slug": "pfs",
+    "pages": 80,
+    "index_path": "pfs/llms.txt",
+    "full_path": "pfs/llms-full.txt"
+  },
+  {
+    "library": "Data Migration Service",
+    "category": "Storage",
+    "code": "dms",
+    "slug": "dms",
+    "pages": 59,
+    "index_path": "dms/llms.txt",
+    "full_path": "dms/llms-full.txt"
+  },
+  {
+    "library": "BytePlus Billing Console",
+    "category": "Management Console",
+    "code": "byteplus-platform",
+    "slug": "byteplus-platform",
+    "pages": 116,
+    "index_path": "byteplus-platform/llms.txt",
+    "full_path": "byteplus-platform/llms-full.txt"
+  },
+  {
+    "library": "BytePlus Legal",
+    "category": "Management Console",
+    "code": "legal",
+    "slug": "legal",
+    "pages": 28,
+    "index_path": "legal/llms.txt",
+    "full_path": "legal/llms-full.txt"
+  },
+  {
+    "library": "BytePlus Support",
+    "category": "Management Console",
+    "code": "support",
+    "slug": "support",
+    "pages": 1,
+    "index_path": "support/llms.txt",
+    "full_path": "support/llms-full.txt"
+  },
+  {
+    "library": "BytePlus Message Center",
+    "category": "Management Console",
+    "code": "message_center",
+    "slug": "message_center",
+    "pages": 15,
+    "index_path": "message_center/llms.txt",
+    "full_path": "message_center/llms-full.txt"
+  },
+  {
+    "library": "BytePlus Security Bulletins",
+    "category": "Management Console",
+    "code": "byteplus-security-bulletins",
+    "slug": "byteplus-security-bulletins",
+    "pages": 42,
+    "index_path": "byteplus-security-bulletins/llms.txt",
+    "full_path": "byteplus-security-bulletins/llms-full.txt"
+  },
+  {
+    "library": "BytePlus Organization",
+    "category": "Management Console",
+    "code": "organization",
+    "slug": "organization",
+    "pages": 9,
+    "index_path": "organization/llms.txt",
+    "full_path": "organization/llms-full.txt"
+  },
+  {
+    "library": "BytePlus Cloud Identity",
+    "category": "Management Console",
+    "code": "CloudIdentity",
+    "slug": "CloudIdentity",
+    "pages": 22,
+    "index_path": "CloudIdentity/llms.txt",
+    "full_path": "CloudIdentity/llms-full.txt"
+  },
+  {
+    "library": "Byteplus Resource Management",
+    "category": "Management Console",
+    "code": "resourcemanagement",
+    "slug": "resourcemanagement",
+    "pages": 35,
+    "index_path": "resourcemanagement/llms.txt",
+    "full_path": "resourcemanagement/llms-full.txt"
+  },
+  {
+    "library": "BytePlus IAM",
+    "category": "Management Console",
+    "code": "IAM",
+    "slug": "IAM",
+    "pages": 23,
+    "index_path": "IAM/llms.txt",
+    "full_path": "IAM/llms-full.txt"
+  },
+  {
+    "library": "BytePlus Account",
+    "category": "Management Console",
+    "code": "Account",
+    "slug": "Account",
+    "pages": 11,
+    "index_path": "Account/llms.txt",
+    "full_path": "Account/llms-full.txt"
+  },
+  {
+    "library": "Terraform",
+    "category": "Developer Tools",
+    "code": "tf",
+    "slug": "tf",
+    "pages": 22,
+    "index_path": "tf/llms.txt",
+    "full_path": "tf/llms-full.txt"
+  },
+  {
+    "library": "BytePlus DataFinder",
+    "category": "Growth Marketing",
+    "code": "DataFinder",
+    "slug": "DataFinder",
+    "pages": 309,
+    "index_path": "DataFinder/llms.txt",
+    "full_path": "DataFinder/llms-full.txt"
+  }
+]
