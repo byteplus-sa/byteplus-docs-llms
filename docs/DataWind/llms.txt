@@ -4,7 +4,7 @@
 
 Source: https://docs.byteplus.com/en/docs/DataWind
 
-Pages: 321
+Pages: 318
 - [V2.97.0](https://docs.byteplus.com/en/docs/DataWind/V2_97_0)
 - [Billing for BytePlus Product and Service](https://docs.byteplus.com/en/docs/DataWind/Billing_for_BytePlus_Product_and_Service)
 - [BytePlus DataWind Service Feature Description](https://docs.byteplus.com/en/docs/DataWind/BytePlus_DataWind_Service_Feature_Description)
@@ -55,7 +55,6 @@ Pages: 321
 - [Metadata Connection and Application](https://docs.byteplus.com/en/docs/DataWind/Metadata_Connection_and_Application)
 - [Transwarp Inceptor](https://docs.byteplus.com/en/docs/DataWind/Transwarp_Inceptor)
 - [Doris](https://docs.byteplus.com/en/docs/DataWind/Doris)
-- [Tencent Cloud COS](https://docs.byteplus.com/en/docs/DataWind/Tencent_Cloud_COS)
 - [Amazon Redshift](https://docs.byteplus.com/en/docs/DataWind/Amazon_Redshift)
 - [Damon](https://docs.byteplus.com/en/docs/DataWind/Damon)
 - [Local Excel/CSV Files](https://docs.byteplus.com/en/docs/DataWind/Local_Excel_CSV_Files)
@@ -70,12 +69,10 @@ Pages: 321
 - [Hologres](https://docs.byteplus.com/en/docs/DataWind/Hologres)
 - [Presto](https://docs.byteplus.com/en/docs/DataWind/Presto)
 - [SAP HANA](https://docs.byteplus.com/en/docs/DataWind/SAP_HANA)
-- [Alibaba Cloud OSS](https://docs.byteplus.com/en/docs/DataWind/Alibaba_Cloud_OSS)
 - [ClickHouse](https://docs.byteplus.com/en/docs/DataWind/ClickHouse)
 - [Access](https://docs.byteplus.com/en/docs/DataWind/Access)
 - [Huawei FusionInsight](https://docs.byteplus.com/en/docs/DataWind/Huawei_FusionInsight)
 - [Tencent Cloud DLC](https://docs.byteplus.com/en/docs/DataWind/Tencent_Cloud_DLC)
-- [Volcano Engine TOS](https://docs.byteplus.com/en/docs/DataWind/Volcano_Engine_TOS)
 - [Gbase 8a jdbc](https://docs.byteplus.com/en/docs/DataWind/Gbase_8a_jdbc)
 - [Transwarp ArgoDB](https://docs.byteplus.com/en/docs/DataWind/Transwarp_ArgoDB)
 - [Kafka](https://docs.byteplus.com/en/docs/DataWind/Kafka)

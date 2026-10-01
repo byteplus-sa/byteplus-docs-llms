@@ -4,7 +4,7 @@
 
 Source: https://docs.byteplus.com/en/docs/vmp
 
-Pages: 254
+Pages: 255
 - [Release notes](https://docs.byteplus.com/en/docs/vmp/New-feature-release-notes)
 - [What is VMP](https://docs.byteplus.com/en/docs/vmp/what-is-vital-managed-service-for-prometheus)
 - [Getting Started](https://docs.byteplus.com/en/docs/vmp/Quick-start)
@@ -85,13 +85,11 @@ Pages: 254
 - [Collection solution overview](https://docs.byteplus.com/en/docs/vmp/Collection-solution-overview)
 - [Obtaining the script](https://docs.byteplus.com/en/docs/vmp/Obtaining-a-script)
 - [Using the script](https://docs.byteplus.com/en/docs/vmp/Script-use-guide)
-- [Deploying the VMP Agent](https://docs.byteplus.com/en/docs/vmp/Deploying-the-VMP-Agent)
 - [Deploying VM Agent](https://docs.byteplus.com/en/docs/vmp/Deploying-the-VM-Agent)
 - [Managing VM Agent](https://docs.byteplus.com/en/docs/vmp/Managing-the-VM-Agent)
 - [Scaling out agents](https://docs.byteplus.com/en/docs/vmp/Scaling-up-components)
 - [Alerting and O&M suggestions](https://docs.byteplus.com/en/docs/vmp/Alerting-and-maintenance-suggestions)
 - [Go application integration](https://docs.byteplus.com/en/docs/vmp/Golang-application-access)
-- [Managing the VMP Agent](https://docs.byteplus.com/en/docs/vmp/Managing-the-VMP-Agent)
 - [Associating a local workspace with a local Prometheus instance](https://docs.byteplus.com/en/docs/vmp/Associating_a_local_workspace_with_a_local_Prometheus_instance)
 - [Accessing a workspace over the Internet through a proxy](https://docs.byteplus.com/en/docs/vmp/Using-proxy-to-connect-workspace-form-internet)
 - [Achieving cross-cloud access to workspaces by using DC and PrivateLink](https://docs.byteplus.com/en/docs/vmp/Achieving_cross-cloud_access_to_workspaces_by_using_DC_and_PrivateLink)
@@ -202,7 +200,7 @@ Pages: 254
 - [ListTagsForResources](https://docs.byteplus.com/en/docs/vmp/ListTagsForResources)
 - [GetWorkspace](https://docs.byteplus.com/en/docs/vmp/GetWorkspace)
 - [Monitoring ECS instances by using node-exporter](https://docs.byteplus.com/en/docs/vmp/Monitoring-ECS-instances)
-- [Monitoring Applications in ECS Instances](https://docs.byteplus.com/en/docs/vmp/Monitoring-applications-in-an-ECS-instance)
+- [Monitoring applications on ECS instances](https://docs.byteplus.com/en/docs/vmp/Monitoring-applications-in-an-ECS-instance)
 - [Monitoring Tencent Cloud resources](https://docs.byteplus.com/en/docs/vmp/Monitoring_Tencent_Cloud_resources)
 - [Monitoring custom Kubernetes clusters](https://docs.byteplus.com/en/docs/vmp/Monitoring_custom_Kubernetes_clusters)
 - [Container storage metric integration](https://docs.byteplus.com/en/docs/vmp/Container_storage_metric_integration)
@@ -259,3 +257,6 @@ Pages: 254
 - [\[Product update\] Migration of the VMP alert notification feature to the Alert Center of the Observability Platform](https://docs.byteplus.com/en/docs/vmp/qianyi)
 - [Tag management](https://docs.byteplus.com/en/docs/vmp/biaoqian)
 - [Project management](https://docs.byteplus.com/en/docs/vmp/xingmu)
+- [Using recording rules to pre-aggregate and accelerate queries](https://docs.byteplus.com/en/docs/vmp/Using-recording-rules-to-pre-aggregate-and-accelerate-queries)
+- [Which queries can automatically match acceleration rules?](https://docs.byteplus.com/en/docs/vmp/Which-queries-can-automatically-match-acceleration-rules)
+- [BytePlus Vital Managed Service for Prometheus_Service Level Agreement](https://docs.byteplus.com/en/docs/vmp/BytePlus-Vital-Managed-Service-for-Prometheus_Service-Level-Agreement)

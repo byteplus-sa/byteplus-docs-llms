@@ -148,7 +148,7 @@ Pages: 182
 - [ListAsyncTasks](https://docs.byteplus.com/en/docs/faas/ListAsyncTasks)
 - [ListReleaseRecords](https://docs.byteplus.com/en/docs/faas/ListReleaseRecords)
 - [Sandbox applications](https://docs.byteplus.com/en/docs/faas/Sandbox_applications)
-- [Advanced configuration for sandbox applications](https://docs.byteplus.com/en/docs/faas/Advanced_configuration_for_sandbox_applications)
+- [Advanced configurations for sandbox applications](https://docs.byteplus.com/en/docs/faas/Advanced_configuration_for_sandbox_applications)
 - [Configuring wildcard domains for sandbox applications](https://docs.byteplus.com/en/docs/faas/Configuring_wildcard_domains_for_sandbox_applications)
 - [For sandbox instances](https://docs.byteplus.com/en/docs/faas/Sandbox_instances)
 - [GetImageSyncStatus](https://docs.byteplus.com/en/docs/faas/GetImageSyncStatus)

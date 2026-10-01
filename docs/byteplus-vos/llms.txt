@@ -4,7 +4,7 @@
 
 Source: https://docs.byteplus.com/en/docs/byteplus-vos
 
-Pages: 150
+Pages: 153
 - [What is BytePlus VideoOne?](https://docs.byteplus.com/en/docs/byteplus-vos/docs-byteplus-video-one-solution-overview)
 - [Why BytePlus VideoOne?](https://docs.byteplus.com/en/docs/byteplus-vos/docs-why-byteplus-video-one-solution)
 - [Use cases](https://docs.byteplus.com/en/docs/byteplus-vos/docs-use-cases)
@@ -55,6 +55,7 @@ Pages: 150
 - [Implementing live sport streaming for iOS](https://docs.byteplus.com/en/docs/byteplus-vos/docs-implementing-live-sport-streaming-for-ios)
 - [Casting](https://docs.byteplus.com/en/docs/byteplus-vos/docs-casting)
 - [Implementing media up and down swiping for Web](https://docs.byteplus.com/en/docs/byteplus-vos/docs-interactive-video-solution-web)
+- [Short drama videos - Flutter integration](https://docs.byteplus.com/en/docs/byteplus-vos/short-drama-videos-flutter-integration)
 - [什么是 BytePlus VideoOne？](https://docs.byteplus.com/en/docs/byteplus-vos/what-is-byteplus-videoone-zh-CN)
 - [概述](https://docs.byteplus.com/en/docs/byteplus-vos/docs-getting-started-with-byteplus-video-one-solution-zh-CN)
 - [理解核心概念](https://docs.byteplus.com/en/docs/byteplus-vos/docs-understand-the-core-concepts-zh-CN)
@@ -105,6 +106,7 @@ Pages: 150
 - [在 iOS 上实现赛事直播](https://docs.byteplus.com/en/docs/byteplus-vos/docs-implementing-live-sport-streaming-for-ios-zh-CN)
 - [投屏](https://docs.byteplus.com/en/docs/byteplus-vos/docs-casting-zh-CN)
 - [在 Web 上实现媒体上下滑动](https://docs.byteplus.com/en/docs/byteplus-vos/docs-interactive-video-solution-web-zh-CN)
+- [短剧视频 - Flutter 集成](https://docs.byteplus.com/en/docs/byteplus-vos/short-drama-videos-flutter-integration-zh-CN)
 - [什麼是 BytePlus VideoOne？](https://docs.byteplus.com/en/docs/byteplus-vos/what-is-byteplus-videoone-zh-TW)
 - [概述](https://docs.byteplus.com/en/docs/byteplus-vos/docs-getting-started-with-byteplus-video-one-solution-zh-TW)
 - [在 Android 上構建您的第一個應用](https://docs.byteplus.com/en/docs/byteplus-vos/docs-running-the-demo-android--zh-TW)
@@ -155,3 +157,4 @@ Pages: 150
 - [在 iOS 上實現賽事直播](https://docs.byteplus.com/en/docs/byteplus-vos/docs-implementing-live-sport-streaming-for-ios-zh-TW)
 - [投屏](https://docs.byteplus.com/en/docs/byteplus-vos/docs-casting-zh-TW)
 - [在 Web 上實現媒體上下滑動](https://docs.byteplus.com/en/docs/byteplus-vos/docs-interactive-video-solution-web-zh-TW)
+- [短劇影片 - Flutter 整合](https://docs.byteplus.com/en/docs/byteplus-vos/short-drama-videos-flutter-integration-zh-TW)

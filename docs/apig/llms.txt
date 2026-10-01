@@ -22,7 +22,7 @@ Pages: 98
 - [Using API Gateway to deploy functions in FaaS](https://docs.byteplus.com/en/docs/apig/faas-application)
 - [Creating an instance](https://docs.byteplus.com/en/docs/apig/Creating_an_instance)
 - [Adding access entrance](https://docs.byteplus.com/en/docs/apig/Adding_access_entrance)
-- [Managing Instances](https://docs.byteplus.com/en/docs/apig/Managing_Instances)
+- [Managing instances](https://docs.byteplus.com/en/docs/apig/Managing_Instances)
 - [Creating a service](https://docs.byteplus.com/en/docs/apig/Creating_a_service)
 - [Adding domain name](https://docs.byteplus.com/en/docs/apig/Adding_domain_name)
 - [Add a CNAME record](https://docs.byteplus.com/en/docs/apig/Adding_CNAME_record)

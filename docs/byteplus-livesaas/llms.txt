@@ -4,7 +4,7 @@
 
 Source: https://docs.byteplus.com/en/docs/byteplus-livesaas
 
-Pages: 803
+Pages: 806
 - [BytePlus Live release notes](https://docs.byteplus.com/en/docs/byteplus-livesaas/docs-byteplus_live_changelog)
 - [What is BytePlus Live？](https://docs.byteplus.com/en/docs/byteplus-livesaas/docs-what-is-byteplus-live)
 - [Basic concepts](https://docs.byteplus.com/en/docs/byteplus-livesaas/docs-glossary)
@@ -281,6 +281,7 @@ Pages: 803
 - [Starting an AI Live](https://docs.byteplus.com/en/docs/byteplus-livesaas/digital-human-livestream)
 - [Going live on TikTok via RTMP](https://docs.byteplus.com/en/docs/byteplus-livesaas/Synchronizing_a_live_stream_from_AI_Live_to_third-party_platforms)
 - [Going live on TikTok via OBS](https://docs.byteplus.com/en/docs/byteplus-livesaas/Going_live_on_TikTok_via_Digital_Human_and_OBS)
+- [Using an iframe to embed the AI Live console](https://docs.byteplus.com/en/docs/byteplus-livesaas/using-iframe-to-embed-the-ai-live-console)
 - [BytePlus Live是什么？](https://docs.byteplus.com/en/docs/byteplus-livesaas/docs-what-is-byteplus-live-zh-CN)
 - [基本概念](https://docs.byteplus.com/en/docs/byteplus-livesaas/docs-glossary-zh-CN)
 - [SaaS 与 aPaaS 功能对比](https://docs.byteplus.com/en/docs/byteplus-livesaas/docs-feature-comparison-between-saas-and-apaas-zh-CN)
@@ -539,11 +540,12 @@ Pages: 803
 - [AI Live 数据隔离说明](https://docs.byteplus.com/en/docs/byteplus-livesaas/doc-118702)
 - [添加第三方商品库](https://docs.byteplus.com/en/docs/byteplus-livesaas/adding-third-party-product-library-zh-CN)
 - [为 AI 直播准备音频和视频](https://docs.byteplus.com/en/docs/byteplus-livesaas/digital-human-livestream-zh-CN)
-- [训练虚拟形象和语音](https://docs.byteplus.com/en/docs/byteplus-livesaas/train-a-digital-human-and-voice-zh-CN)
+- [训练虚拟形象和声音](https://docs.byteplus.com/en/docs/byteplus-livesaas/train-a-digital-human-and-voice-zh-CN)
 - [查看资源使用情况和购买记录](https://docs.byteplus.com/en/docs/byteplus-livesaas/viewing-resource-usage-and-purchase-records-zh-CN)
 - [启动 AI Live](https://docs.byteplus.com/en/docs/byteplus-livesaas/start-a-digital-human-livestream-zh-CN)
 - [通过 RTMP 推流地址在 TikTok 直播](https://docs.byteplus.com/en/docs/byteplus-livesaas/Synchronizing_a_live_stream_from_AI_Live_to_third-party_platforms-zh-CN)
 - [通过 OBS 虚拟摄像头在 TikTok 直播](https://docs.byteplus.com/en/docs/byteplus-livesaas/Going_live_on_TikTok_via_Digital_Human_and_OBS-zh-CN)
+- [使用 iframe 嵌入 AI Live 控制台](https://docs.byteplus.com/en/docs/byteplus-livesaas/using-iframe-to-embed-the-ai-live-console-zh-CN)
 - [建立直播間](https://docs.byteplus.com/en/docs/byteplus-livesaas/jian-li-zhi-bo-jian-zh-TW)
 - [標記直播間](https://docs.byteplus.com/en/docs/byteplus-livesaas/biao-ji-zhi-bo-jian-zh-TW)
 - [透過您的應用程式進入直播間進行直播](https://docs.byteplus.com/en/docs/byteplus-livesaas/tou-guo-nin-de-ying-yong-cheng-shi-jin-ru-zhi-bo-j-zh-TW)
@@ -803,8 +805,9 @@ Pages: 803
 - [新增第三方商品庫](https://docs.byteplus.com/en/docs/byteplus-livesaas/adding-third-party-product-library-zh-TW)
 - [準備與上傳知識庫檔案](https://docs.byteplus.com/en/docs/byteplus-livesaas/prepare-and-upload-knowledge-base-file-zh-TW)
 - [為 AI 直播準備音訊與視訊](https://docs.byteplus.com/en/docs/byteplus-livesaas/zhun-bei-yin-xun-zh-TW)
-- [訓練虛擬人物與語音](https://docs.byteplus.com/en/docs/byteplus-livesaas/xun-lian-shu-zi-ren-zh-TW)
+- [訓練虛擬人與聲音](https://docs.byteplus.com/en/docs/byteplus-livesaas/xun-lian-shu-zi-ren-zh-TW)
 - [檢視資源使用情況與購買記錄](https://docs.byteplus.com/en/docs/byteplus-livesaas/viewing-resource-usage-and-purchase-records-zh-TW)
 - [啟動 AI Live](https://docs.byteplus.com/en/docs/byteplus-livesaas/qi-dong-shu-zi-ren-zhi-bo-zh-TW)
 - [透過 RTMP 推流地址在 TikTok 直播](https://docs.byteplus.com/en/docs/byteplus-livesaas/Synchronizing_a_live_stream_from_AI_Live_to_third-party_platforms-zh-TW)
 - [透過 OBS 在虛擬攝影機 TikTok 直播](https://docs.byteplus.com/en/docs/byteplus-livesaas/obs-go-live-zh-TW)
+- [使用 iframe 嵌入 AI Live 控制台](https://docs.byteplus.com/en/docs/byteplus-livesaas/using-iframe-to-embed-the-ai-live-console-zh-TW)

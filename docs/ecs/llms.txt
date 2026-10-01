@@ -4,7 +4,7 @@
 
 Source: https://docs.byteplus.com/en/docs/ecs
 
-Pages: 748
+Pages: 749
 - [New feature release notes](https://docs.byteplus.com/en/docs/ecs/New-feature-release-notes)
 - [Billing overview](https://docs.byteplus.com/en/docs/ecs/Billing-overview)
 - [Billing by instance type](https://docs.byteplus.com/en/docs/ecs/Instance-type-billing)
@@ -442,7 +442,7 @@ Pages: 748
 - [Managing public commands](https://docs.byteplus.com/en/docs/ecs/Managing-public-command)
 - [Cloud assistant overview](https://docs.byteplus.com/en/docs/ecs/Overview-of-cloud-assistant)
 - [Overview of Reserved Storage Capacity](https://docs.byteplus.com/en/docs/ecs/Reserved-storage-capacity-overview)
-- [Purchasing Reserved Storage Capacity](https://docs.byteplus.com/en/docs/ecs/Purchase-a-reserved-storage-capacity)
+- [Purchase Reserved Storage Capacity (RSC)](https://docs.byteplus.com/en/docs/ecs/Purchase-a-reserved-storage-capacity)
 - [Viewing Reserved Storage Capacity usage details](https://docs.byteplus.com/en/docs/ecs/View-reserved-storage-capacity-usage-details)
 - [\[Discontinuation of sale\] Announcement on the discontinuation of i2, and d2 of ECS](https://docs.byteplus.com/en/docs/ecs/discontinuation-of-i2-and-d2)
 - [Benefits](https://docs.byteplus.com/en/docs/ecs/Benefits-)
@@ -753,3 +753,4 @@ Pages: 748
 - [\[OpenAPI Announcement\] Announcement on Adjustment of ECS Tag OpenAPI Interface](https://docs.byteplus.com/en/docs/ecs/Announcement_on_Adjustment_of_ECS_Tag_OpenAPI_Interface)
 - [How to fix invalid software repository keys?](https://docs.byteplus.com/en/docs/ecs/How_to_fix_expired_software_repository_keys)
 - [Modifying net.ipv4.udp_mem parameter in Linux operating system](https://docs.byteplus.com/en/docs/ecs/Adjust_the_net_ipv4_udp_mem)
+- [Managing files in ECS instances via Terminal](https://docs.byteplus.com/en/docs/ecs/Managing_files_in_ECS_instances_via_Terminal)

@@ -4,7 +4,7 @@
 
 Source: https://docs.byteplus.com/en/docs/vpc
 
-Pages: 246
+Pages: 249
 - [What's New](https://docs.byteplus.com/en/docs/vpc/Whats-New)
 - [Billing](https://docs.byteplus.com/en/docs/vpc/Billing)
 - [Overview](https://docs.byteplus.com/en/docs/vpc/API-Overview)
@@ -100,7 +100,7 @@ Pages: 246
 - [Feature](https://docs.byteplus.com/en/docs/vpc/Features-list)
 - [Applicable scenarios](https://docs.byteplus.com/en/docs/vpc/Application-scenarios)
 - [Benefits](https://docs.byteplus.com/en/docs/vpc/Benefits)
-- [Limitations](https://docs.byteplus.com/en/docs/vpc/Limits)
+- [Limits](https://docs.byteplus.com/en/docs/vpc/Limits)
 - [Regions and Availability Zones](https://docs.byteplus.com/en/docs/vpc/Regions-and-Availability-Zones)
 - [Virtual Private Cloud FAQ](https://docs.byteplus.com/en/docs/vpc/VPC-FAQ)
 - [Subnet FAQ](https://docs.byteplus.com/en/docs/vpc/Subnet-FAQ)
@@ -145,7 +145,7 @@ Pages: 246
 - [Getting started](https://docs.byteplus.com/en/docs/vpc/Traffic-Mirror-Quick-start)
 - [Managing Traffic Mirror Target](https://docs.byteplus.com/en/docs/vpc/Managing-a-Traffic-Mirror-target)
 - [Managing Traffic Mirror Filter](https://docs.byteplus.com/en/docs/vpc/Managing-traffic-mirror-filter)
-- [Managing Traffic Mirror Session](https://docs.byteplus.com/en/docs/vpc/Managing-a-Traffic-Mirror-session)
+- [Managing the traffic mirror session](https://docs.byteplus.com/en/docs/vpc/Managing-a-Traffic-Mirror-session)
 - [Viewing VPC details](https://docs.byteplus.com/en/docs/vpc/Viewing-details-of-a-VPC)
 - [Deleting a VPC](https://docs.byteplus.com/en/docs/vpc/Deleting-a-VPC)
 - [Enabling/Disabling IPv6 for VPC](https://docs.byteplus.com/en/docs/vpc/Enabling-or-disabling-IPv6-for-a-VPC)
@@ -251,3 +251,6 @@ Pages: 246
 - [Using a VPC secondary CIDR block to implement EIP direct](https://docs.byteplus.com/en/docs/vpc/Using_a_VPC_secondary_CIDR_block_to_implement_EIP_direct)
 - [Security group use cases](https://docs.byteplus.com/en/docs/vpc/Security-group-use-cases)
 - [Enable trusted service](https://docs.byteplus.com/en/docs/vpc/Enabling-trusted-service)
+- [BytePlus VPC Traffic Mirror_Service Level Agreement](https://docs.byteplus.com/en/docs/vpc/BytePlus_VPC_Traffic_Mirror_Service_Level_Agreement)
+- [BytePlus VPC Flow Log_Service Level Agreement](https://docs.byteplus.com/en/docs/vpc/BytePlus_VPC_Flow_Log_Service_Level_Agreement)
+- [Starting/Stoping a traffic mirror session](https://docs.byteplus.com/en/docs/vpc/Starting-Stoping-a-traffic-mirror-session)

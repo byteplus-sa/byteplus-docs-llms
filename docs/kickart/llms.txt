@@ -4,7 +4,7 @@
 
 Source: https://docs.byteplus.com/en/docs/kickart
 
-Pages: 9
+Pages: 12
 - [Product Introduction](https://docs.byteplus.com/en/docs/kickart/Product_Introduction)
 - [Billing Method](https://docs.byteplus.com/en/docs/kickart/Billing_Method)
 - [User Guide](https://docs.byteplus.com/en/docs/kickart/User_Guide)
@@ -14,3 +14,6 @@ Pages: 9
 - [Frequently Asked Questions](https://docs.byteplus.com/en/docs/kickart/Frequently_Asked_Questions)
 - [Kickart New Customer Offers](https://docs.byteplus.com/en/docs/kickart/activity)
 - [Virtual Avatar Compliance Commitment](https://docs.byteplus.com/en/docs/kickart/Virtual_Avatar_Compliance_Commitment)
+- [Asset Requirements](https://docs.byteplus.com/en/docs/kickart/Asset_Requirements)
+- [Creating a BytePlus API Key for Kickart](https://docs.byteplus.com/en/docs/kickart/byteplus_API_key)
+- [Smart Editor Prompt Guide](https://docs.byteplus.com/en/docs/kickart/Smart_editor_users_guide)

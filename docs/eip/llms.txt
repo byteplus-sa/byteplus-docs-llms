@@ -59,7 +59,6 @@ Pages: 68
 - [Managing an IP address pool](https://docs.byteplus.com/en/docs/eip/Manage_IP_address_pools)
 - [Configuring EIP Direct](https://docs.byteplus.com/en/docs/eip/Set-up-EIP-Pass-through-Mode)
 - [API release notes](https://docs.byteplus.com/en/docs/eip/API-release-notes)
-- [ReleaseEipAddress](https://docs.byteplus.com/en/docs/eip/ReleaseEipAddress)
 - [CreateIpAddressPool](https://docs.byteplus.com/en/docs/eip/CreateIpAddressPool)
 - [DescribeIpAddressPools](https://docs.byteplus.com/en/docs/eip/DescribeIpAddressPools)
 - [DescribeIpAddressPoolAttributes](https://docs.byteplus.com/en/docs/eip/DescribeIpAddressPoolAttributes)
@@ -73,3 +72,4 @@ Pages: 68
 - [IAM policy types for IP Address Pool](https://docs.byteplus.com/en/docs/eip/IAM_policy_types_for_IP_Address_Pool)
 - [Custom policy examples for IP Address Pool](https://docs.byteplus.com/en/docs/eip/Custom_policy_examples_for_IP_Address_Pool)
 - [Transferring an EIP](https://docs.byteplus.com/en/docs/eip/Transferring_an_EIP)
+- [ReleaseEipAddress](https://docs.byteplus.com/en/docs/eip/ReleaseEipAddress)

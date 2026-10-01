@@ -4,7 +4,7 @@
 
 Source: https://docs.byteplus.com/en/docs/Dramagic
 
-Pages: 17
+Pages: 18
 - [Release Notes](https://docs.byteplus.com/en/docs/Dramagic/ReleaseNotes)
 - [Product Introduction](https://docs.byteplus.com/en/docs/Dramagic/ProductIntroduction)
 - [Billing Methods](https://docs.byteplus.com/en/docs/Dramagic/BillingMethods)
@@ -22,3 +22,4 @@ Pages: 17
 - [Team](https://docs.byteplus.com/en/docs/Dramagic/Team)
 - [Statistics](https://docs.byteplus.com/en/docs/Dramagic/Statistics)
 - [Watermark](https://docs.byteplus.com/en/docs/Dramagic/Watermark)
+- [International Availability for BytePlus Dramagic Service](https://docs.byteplus.com/en/docs/Dramagic/InternationalAvailability)

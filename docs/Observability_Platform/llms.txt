@@ -4,7 +4,7 @@
 
 Source: https://docs.byteplus.com/en/docs/Observability_Platform
 
-Pages: 125
+Pages: 129
 - [Overview of AI application monitoring](https://docs.byteplus.com/en/docs/Observability_Platform/Overview_of_AI_application_monitoring)
 - [Release notes](https://docs.byteplus.com/en/docs/Observability_Platform/Release_notes)
 - [What is Observability Platform?](https://docs.byteplus.com/en/docs/Observability_Platform/What_is_Observability_Platform)
@@ -119,8 +119,8 @@ Pages: 125
 - [Creating an alert template for Server-side Monitoring](https://docs.byteplus.com/en/docs/Observability_Platform/Creating_an_alert_template_for_Server-side_Monitoring)
 - [Managing Server-side Monitoring alert templates](https://docs.byteplus.com/en/docs/Observability_Platform/Managing_Server-side_Monitoring_alert_templates)
 - [Integration management](https://docs.byteplus.com/en/docs/Observability_Platform/Integration_management)
+- [Integrating AI applications](https://docs.byteplus.com/en/docs/Observability_Platform/Integrating_AI_applications)
 - [Integrating server-side applications in VKE](https://docs.byteplus.com/en/docs/Observability_Platform/Integrating_server-side_applications_in_VKE)
-- [Integrating server-side applications from third-party clouds](https://docs.byteplus.com/en/docs/Observability_Platform/Integrating_server-side_applications_from_third-party_clouds)
 - [Probe management](https://docs.byteplus.com/en/docs/Observability_Platform/Probe_management)
 - [Creating object groups](https://docs.byteplus.com/en/docs/Observability_Platform/Creating_object_groups)
 - [Managing object groups](https://docs.byteplus.com/en/docs/Observability_Platform/Managing_object_groups)
@@ -130,3 +130,7 @@ Pages: 125
 - [Viewing Cloud Monitor preset alert templates](https://docs.byteplus.com/en/docs/Observability_Platform/Viewing_Cloud_Monitor_preset_alert_templates)
 - [Enabling Cloud Monitor preset alert templates](https://docs.byteplus.com/en/docs/Observability_Platform/Enabling_Cloud_Monitor_preset_alert_templates)
 - [Managing Cloud Monitor preset alert templates](https://docs.byteplus.com/en/docs/Observability_Platform/Managing_Cloud_Monitor_preset_alert_templates)
+- [Integrating server-side applications from third-party clouds](https://docs.byteplus.com/en/docs/Observability_Platform/Integrating_server-side_applications_from_third-party_clouds)
+- [Insight overview](https://docs.byteplus.com/en/docs/Observability_Platform/gaishu)
+- [Insight rules](https://docs.byteplus.com/en/docs/Observability_Platform/guize)
+- [Insight tasks](https://docs.byteplus.com/en/docs/Observability_Platform/renwu)

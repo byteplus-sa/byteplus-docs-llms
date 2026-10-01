@@ -4,7 +4,7 @@
 
 Source: https://docs.byteplus.com/en/docs/HBase
 
-Pages: 111
+Pages: 120
 - [FAQs](https://docs.byteplus.com/en/docs/HBase/FAQs)
 - [API overview](https://docs.byteplus.com/en/docs/HBase/API_overview)
 - [DescribeRegions](https://docs.byteplus.com/en/docs/HBase/DescribeRegions)
@@ -100,8 +100,6 @@ Pages: 111
 - [Enabling public network access](https://docs.byteplus.com/en/docs/HBase/Enabling_public_network_access)
 - [Disabling public network access](https://docs.byteplus.com/en/docs/HBase/Disabling_public_network_access)
 - [Enabling or disabling public network resolution](https://docs.byteplus.com/en/docs/HBase/Enabling_or_disabling_public_network_resolution)
-- [Connecting to the instance using the Java API](https://docs.byteplus.com/en/docs/HBase/Connecting_to_the_instance_using_the_Java_API_1)
-- [Connecting to the instance using the HBase Shell](https://docs.byteplus.com/en/docs/HBase/Connecting_to_the_instance_using_the_HBase_Shell_1)
 - [Using HBase with sub-accounts](https://docs.byteplus.com/en/docs/HBase/Using_HBase_with_sub-accounts)
 - [About hot and cold data separation](https://docs.byteplus.com/en/docs/HBase/About_hot_and_cold_data_separation)
 - [Enabling Capacity storage](https://docs.byteplus.com/en/docs/HBase/Enabling_Capacity_storage)
@@ -110,9 +108,20 @@ Pages: 111
 - [Changing the capacity of Capacity storage](https://docs.byteplus.com/en/docs/HBase/Changing_the_capacity_of_Capacity_storage)
 - [Performance test](https://docs.byteplus.com/en/docs/HBase/Performance_test)
 - [Configuring maintenance window](https://docs.byteplus.com/en/docs/HBase/Configuring_maintenance_window)
-- [Using HBase Shell](https://docs.byteplus.com/en/docs/HBase/Using_HBase_Shell)
+- [Connecting to the instance using the Java API](https://docs.byteplus.com/en/docs/HBase/Connecting_to_the_instance_using_the_Java_API_1)
+- [Connecting to the instance using the HBase Shell](https://docs.byteplus.com/en/docs/HBase/Connecting_to_the_instance_using_the_HBase_Shell_1)
 - [Viewing operation and maintenance events](https://docs.byteplus.com/en/docs/HBase/Viewing_operation_and_maintenance_events)
 - [Executing an operation and maintenance event in advance](https://docs.byteplus.com/en/docs/HBase/Executing_an_operation_and_maintenance_event_in_advance)
 - [Modifying the execution time of operation and maintenance events](https://docs.byteplus.com/en/docs/HBase/Modifying_the_execution_time_of_operation_and_maintenance_events)
 - [Canceling operation and maintenance events](https://docs.byteplus.com/en/docs/HBase/Canceling_operation_and_maintenance_events)
 - [Disable DDL](https://docs.byteplus.com/en/docs/HBase/Disable_DDL)
+- [Using HBase Shell](https://docs.byteplus.com/en/docs/HBase/Using_HBase_Shell)
+- [Announcement on billing for Thrift connection addresses](https://docs.byteplus.com/en/docs/HBase/Announcement_on_billing_for_Thrift_connection_addresses)
+- [EnableDBInstanceThriftServer](https://docs.byteplus.com/en/docs/HBase/EnableDBInstanceThriftServer)
+- [ModifyDBInstanceThriftServerSpec](https://docs.byteplus.com/en/docs/HBase/ModifyDBInstanceThriftServerSpec)
+- [UpgradeDBInstanceThriftServer](https://docs.byteplus.com/en/docs/HBase/UpgradeDBInstanceThriftServer)
+- [DisableDBInstanceThriftServer](https://docs.byteplus.com/en/docs/HBase/DisableDBInstanceThriftServer)
+- [Enabling or disabling high-availability Thrift connection address](https://docs.byteplus.com/en/docs/HBase/Enabling_or_disabling_high-availability_Thrift_connection_address)
+- [Changing high-availability Thrift Server configurations](https://docs.byteplus.com/en/docs/HBase/Changing_high-availability_Thrift_Server_configurations)
+- [Upgrading to high-availability Thrift connection address](https://docs.byteplus.com/en/docs/HBase/Upgrading_to_high-availability_Thrift_connection_address)
+- [ThriftServer performance document](https://docs.byteplus.com/en/docs/HBase/Thrift)

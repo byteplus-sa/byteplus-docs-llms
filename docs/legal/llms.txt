@@ -4,7 +4,7 @@
 
 Source: https://docs.byteplus.com/en/docs/legal
 
-Pages: 28
+Pages: 30
 - [Terms of Service](https://docs.byteplus.com/en/docs/legal/docs-terms-of-service)
 - [Customer Agreement](https://docs.byteplus.com/en/docs/legal/docs-customer-agreement)
 - [General Terms for AI Services](https://docs.byteplus.com/en/docs/legal/AI-Services-terms)
@@ -33,3 +33,5 @@ Pages: 28
 - [Agreement for Enterprise Financial Trusteeship Function](https://docs.byteplus.com/en/docs/legal/docs-agreement-for-enterprise-financial-trusteeship-function)
 - [SLA for Viking AI Search](https://docs.byteplus.com/en/docs/legal/SLA_for_Viking_AI_Search)
 - [SLA for BytePlus Dramagic](https://docs.byteplus.com/en/docs/legal/SLA)
+- [Grievance Officer (India)](https://docs.byteplus.com/en/docs/legal/GrievanceOfficer-India)
+- [Privacy Grievance Officer (India)](https://docs.byteplus.com/en/docs/legal/PrivacyGrievanceOfficer-India)
